@@ -18,6 +18,6 @@
 - [My Java Projects!](https://github.com/AlexandrosPanag/My-Java-Projects)
 - [My C++ Projects!](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)
 - [My Arduino Projects!](https://github.com/AlexandrosPanag/My_Arduino_UNO_R3_ATmega328P_Projects)
-- [My SQL Projects! (coming soon...)]()
+- [My SQL Projects!](https://github.com/AlexandrosPanag/My_SQL_Projects)
 - [My PC Building Simulator Projects! (coming soon...)]()
 <!-- BLOG-POST-LIST:END -->
