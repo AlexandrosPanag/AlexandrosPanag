@@ -23,4 +23,4 @@
 - [My SQL Projects!](https://github.com/AlexandrosPanag/My_SQL_Projects)
 - [My OCTAVE Projects!](https://github.com/AlexandrosPanag/My_Octave_Projects)
 - [My VHDL Projects! (coming soon...)]()
-- [My PC Building Simulator Projects! (coming soon...)]()>
+- [My PC Building Simulator Projects! (coming soon...)]()
