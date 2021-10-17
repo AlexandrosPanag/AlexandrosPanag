@@ -7,7 +7,7 @@
 [<img align="center" alt="LINKEDIN | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="center" alt="SOLOLEARN" width="140px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/SoloLearn_logo.svg/1920px-SoloLearn_logo.svg.png" />][SOLOLEARN]
 
-[twitter]:https://twitter.com/PanagAlexandros
+
 [github]: https://github.com/AlexandrosPanag
 [linkedin]: https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
 [SOLOLEARN]: https://www.sololearn.com/profile/17520389
