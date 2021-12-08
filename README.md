@@ -33,4 +33,4 @@
 - [My VHDL Projects!](https://github.com/AlexandrosPanag/My_VHDL_Projects)
 - [My Android Studio Projects!](https://github.com/AlexandrosPanag/My_Android_Studio_Projects)
 - [My Ruby Projects! (coming soon...)]()
-- [My PC Building Simulator Projects! (coming soon...)]()
+
