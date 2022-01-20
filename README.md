@@ -31,7 +31,6 @@
 - [My SQL Projects!](https://github.com/AlexandrosPanag/My_SQL_Projects)
 - [My OCTAVE / MATLAB Projects!](https://github.com/AlexandrosPanag/My_Octave_Projects)
 - [My VHDL Projects!](https://github.com/AlexandrosPanag/My_VHDL_Projects)
-- [My Android Studio Projects!](https://github.com/AlexandrosPanag/My_Android_Studio_Projects)
 - [My SystemVerilog Projects!](https://github.com/AlexandrosPanag/My_System_Verilog_Projects)
 - [My Ruby Projects! (coming soon...)]()
 
