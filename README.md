@@ -20,6 +20,7 @@
 ## <img align="left" alt="Coding" width="30" src="https://media2.giphy.com/media/LYBMuRwH3JkhdmLbGE/giphy.gif?cid=ecf05e47jx65wsoe0706u8m33zcjgdboduv6popqnf3h902n&rid=giphy.gif&ct=s"> _My Projects_
 <!-- BLOG-POST-LIST:START -->
 
+- [My Arduino Projects](https://github.com/AlexandrosPanag/My_Arduino_Projects)
 - [My WINDOWS CMD Projects (!--ADVANCED--!)](https://github.com/AlexandrosPanag/My_Windows_CMD_Projects)
 - [My Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)
 - [My Markdown Projects](https://github.com/AlexandrosPanag/Markdown_Projects)
@@ -30,7 +31,6 @@
 - [My MIPS Assembly Projects](https://github.com/AlexandrosPanag/My-MIPS-Assembly-Projects)
 - [My Java Projects](https://github.com/AlexandrosPanag/My-Java-Projects)
 - [My C++ Projects](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)
-- [My Arduino Projects](https://github.com/AlexandrosPanag/My_Arduino_UNO_R3_ATmega328P_Projects)
 - [My SQL Projects](https://github.com/AlexandrosPanag/My_SQL_Projects)
 - [My OCTAVE / MATLAB Projects](https://github.com/AlexandrosPanag/My_Octave_Projects)
 - [My VHDL Projects](https://github.com/AlexandrosPanag/My_VHDL_Projects)
