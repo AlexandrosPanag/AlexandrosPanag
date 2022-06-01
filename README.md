@@ -1,4 +1,4 @@
-[<img align="left" alt="HI" width="0.1x" src="https://media2.giphy.com/media/NMK0WbTVH2NeCHIelN/giphy.gif?cid=ecf05e475y5eb3ydjkag2gfz7jwcmp2imcw8e6h3x0o5t5ld&rid=giphy.gif&ct=ts" />]
+[<img align="left" alt="HI" width="0000.1x" src="https://media2.giphy.com/media/NMK0WbTVH2NeCHIelN/giphy.gif?cid=ecf05e475y5eb3ydjkag2gfz7jwcmp2imcw8e6h3x0o5t5ld&rid=giphy.gif&ct=ts" />]
 
 
 [![](https://raw.githubusercontent.com/AlexandrosPanag/AlexandrosPanag.github.io/main/Banner.gif)](https://github.com/AlexandrosPanag?tab=repositories)
