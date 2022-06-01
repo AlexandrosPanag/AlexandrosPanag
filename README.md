@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="1px">
+### Hi there <img src="https://media2.giphy.com/media/NMK0WbTVH2NeCHIelN/giphy.gif?cid=ecf05e475y5eb3ydjkag2gfz7jwcmp2imcw8e6h3x0o5t5ld&rid=giphy.gif&ct=ts" width="10px">
 
 [![](https://raw.githubusercontent.com/AlexandrosPanag/AlexandrosPanag.github.io/main/Banner.gif)](https://github.com/AlexandrosPanag?tab=repositories)
 
