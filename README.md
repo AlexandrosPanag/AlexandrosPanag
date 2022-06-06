@@ -21,7 +21,7 @@
 - [My Arduino Projects](https://github.com/AlexandrosPanag/My_Arduino_Projects)
 - [My Processing Projects](https://github.com/AlexandrosPanag/My_Processing_Projects)
 - [My esp8266 Projects](https://github.com/AlexandrosPanag/My_esp8266_Projects)
-- [My WINDOWS CMD Projects (!--ADVANCED--!)](https://github.com/AlexandrosPanag/My_Windows_CMD_Projects)
+- [My Windows Projects](https://github.com/AlexandrosPanag/My_Windows_CMD_Projects)
 - [My Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)
 - [My Markdown Projects](https://github.com/AlexandrosPanag/Markdown_Projects)
 - [My Prolog Projects](https://github.com/AlexandrosPanag/My_Prolog_Projects)
