@@ -9,7 +9,6 @@
 
 [github]: https://github.com/AlexandrosPanag
 [linkedin]: https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
-[SOLOLEARN]: https://www.sololearn.com/profile/17520389
 
 
 <!-- BLOG-POST-LIST:START -->
