@@ -27,7 +27,6 @@
 - [My Prolog Projects](https://github.com/AlexandrosPanag/My_Prolog_Projects)
 - [My MSP430F5529 Projects](https://github.com/AlexandrosPanag/Ti-launch-pad-with-MSP430-MCU)
 - [My C Projects](https://github.com/AlexandrosPanag/My-C-Projects)
-- [My HTML Projects](https://github.com/AlexandrosPanag/HTML-Start)
 - [My MIPS Assembly Projects](https://github.com/AlexandrosPanag/My-MIPS-Assembly-Projects)
 - [My Java Projects](https://github.com/AlexandrosPanag/My-Java-Projects)
 - [My C++ Projects](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)
@@ -35,6 +34,5 @@
 - [My OCTAVE / MATLAB Projects](https://github.com/AlexandrosPanag/My_Octave_Projects)
 - [My VHDL Projects](https://github.com/AlexandrosPanag/My_VHDL_Projects)
 - [My SystemVerilog Projects](https://github.com/AlexandrosPanag/My_System_Verilog_Projects)
-- [My JavaScript Projects](https://github.com/AlexandrosPanag/My_JavaScript_Projects)
 - [My Ruby Projects! (coming soon...)]()
 
