@@ -1,4 +1,3 @@
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandrosPanag&&theme=tokyonight" alt="AlexandrosPanag" /></p>
 
 [![](https://raw.githubusercontent.com/AlexandrosPanag/AlexandrosPanag.github.io/main/Banner.gif)](https://github.com/AlexandrosPanag?tab=repositories)
 
@@ -46,4 +45,5 @@
 
 [![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AlexandrosPanag&&theme=xcode)](https://github.com/AlexandrosPanag)
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AlexandrosPanag&&theme=tokyonight" alt="AlexandrosPanag" /></p>
 
