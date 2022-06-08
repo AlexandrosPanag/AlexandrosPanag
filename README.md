@@ -2,8 +2,9 @@
 [![](https://raw.githubusercontent.com/AlexandrosPanag/AlexandrosPanag.github.io/main/Banner.gif)](https://github.com/AlexandrosPanag?tab=repositories)
 
 
-[<img align="center" alt="GITHUB" width="35x" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
-[<img align="center" alt="LINKEDIN | LinkedIn" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="GITHUB" width="35x" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/github/github-original.svg" />][github]
+[<img align="center" alt="LINKEDIN | LinkedIn" width="35px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" />][linkedin]
+
 
 
 
