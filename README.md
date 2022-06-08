@@ -19,7 +19,7 @@
 
 <!-- BLOG-POST-LIST:START -->
 
-[->My page ! <-](https://alexandrospanag.github.io) 
+[-> alexandrospanag.github.io <-](https://alexandrospanag.github.io) 
 
 ## <img align="left" alt="Coding" width="30" src="https://media2.giphy.com/media/LYBMuRwH3JkhdmLbGE/giphy.gif?cid=ecf05e47jx65wsoe0706u8m33zcjgdboduv6popqnf3h902n&rid=giphy.gif&ct=s"> _My Projects_
 <!-- BLOG-POST-LIST:START -->
