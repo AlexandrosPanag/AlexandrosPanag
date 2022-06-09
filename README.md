@@ -21,7 +21,10 @@
 
 [-> alexandrospanag.github.io <-](https://alexandrospanag.github.io) 
 
-## <img align="left" alt="Coding" width="30" src="https://media2.giphy.com/media/LYBMuRwH3JkhdmLbGE/giphy.gif?cid=ecf05e47jx65wsoe0706u8m33zcjgdboduv6popqnf3h902n&rid=giphy.gif&ct=s"> _My Projects_
+## <img align="left" alt="Coding" width="30" src="https://media2.giphy.com/media/LYBMuRwH3JkhdmLbGE/giphy.gif?cid=ecf05e47jx65wsoe0706u8m33zcjgdboduv6popqnf3h902n&rid=giphy.gif&ct=s">  
+
+ <h3 align="left">My Projects </h3>
+
 <!-- BLOG-POST-LIST:START -->
 
 - [My Arduino Projects](https://github.com/AlexandrosPanag/My_Arduino_Projects)
