@@ -42,7 +42,6 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 - [My ESP32 Projects](https://github.com/AlexandrosPanag/My_ESP32_Projects)
 - [My ESP8266 Projects](https://github.com/AlexandrosPanag/My_esp8266_Projects)
 - [My Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)
-- [My Windows Projects](https://github.com/AlexandrosPanag/My_Windows_CMD_Projects)
 - [My Markdown Projects](https://github.com/AlexandrosPanag/My_Markdown_Projects)
 - [My Prolog Projects](https://github.com/AlexandrosPanag/My_Prolog_Projects)
 - [My MSP430F5529 Projects](https://github.com/AlexandrosPanag/Ti-launch-pad-with-MSP430-MCU)
