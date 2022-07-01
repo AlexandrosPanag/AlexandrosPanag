@@ -18,7 +18,7 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 
 
 
-[github]: alexandrospanag.github.io
+[github]: https://www.alexandrospanag.github.io
 [linkedin]: https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
 
 
