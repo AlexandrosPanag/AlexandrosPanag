@@ -40,7 +40,7 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 - [My Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)
 - [My Markdown Projects](https://github.com/AlexandrosPanag/My_Markdown_Projects)
 - [My Prolog Projects](https://github.com/AlexandrosPanag/My_Prolog_Projects)
-- [My MSP430F5529 Projects](https://github.com/AlexandrosPanag/Ti-launch-pad-with-MSP430-MCU)
+- [My Texas Instruments Projects](https://github.com/AlexandrosPanag/Texas_Instruments)
 - [My C Projects](https://github.com/AlexandrosPanag/My-C-Projects)
 - [My MIPS Assembly Projects](https://github.com/AlexandrosPanag/My-MIPS-Assembly-Projects)
 - [My Java Projects](https://github.com/AlexandrosPanag/My-Java-Projects)
