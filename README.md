@@ -32,25 +32,26 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 
 <!-- BLOG-POST-LIST:START -->
 
+- [My Android Studio Projects](https://github.com/AlexandrosPanag/My_Android_Studio_Projects)
 - [My Arduino Projects](https://github.com/AlexandrosPanag/My_Arduino_Projects)
-- [My Processing Projects](https://github.com/AlexandrosPanag/My_Processing_Projects)
-- [My MicroPython Projects](https://github.com/AlexandrosPanag/My_MicroPython_Projects)
+- [My C Projects](https://github.com/AlexandrosPanag/My-C-Projects)
+- [My C++ Projects](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)
 - [My ESP32 Projects](https://github.com/AlexandrosPanag/My_ESP32_Projects)
 - [My ESP8266 Projects](https://github.com/AlexandrosPanag/My_esp8266_Projects)
-- [My Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)
-- [My Markdown Projects](https://github.com/AlexandrosPanag/My_Markdown_Projects)
-- [My Prolog Projects](https://github.com/AlexandrosPanag/My_Prolog_Projects)
-- [My Texas Instruments Projects](https://github.com/AlexandrosPanag/Texas_Instruments)
-- [My C Projects](https://github.com/AlexandrosPanag/My-C-Projects)
-- [My MIPS Assembly Projects](https://github.com/AlexandrosPanag/My-MIPS-Assembly-Projects)
 - [My Java Projects](https://github.com/AlexandrosPanag/My-Java-Projects)
-- [My C++ Projects](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)
-- [My SQL Projects](https://github.com/AlexandrosPanag/My_SQL_Projects)
+- [My MIPS Assembly Projects](https://github.com/AlexandrosPanag/My-MIPS-Assembly-Projects)
+- [My Markdown Projects](https://github.com/AlexandrosPanag/My_Markdown_Projects)
+- [My MicroPython Projects](https://github.com/AlexandrosPanag/My_MicroPython_Projects)
 - [My OCTAVE / MATLAB Projects](https://github.com/AlexandrosPanag/My_Octave_Projects)
-- [My VHDL Projects](https://github.com/AlexandrosPanag/My_VHDL_Projects)
+- [My Processing Projects](https://github.com/AlexandrosPanag/My_Processing_Projects)
+- [My Prolog Projects](https://github.com/AlexandrosPanag/My_Prolog_Projects)
+- [My Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)
+- [My SQL Projects](https://github.com/AlexandrosPanag/My_SQL_Projects)
 - [My SystemVerilog Projects](https://github.com/AlexandrosPanag/My_System_Verilog_Projects)
-- [My Android Studio Projects](https://github.com/AlexandrosPanag/My_Android_Studio_Projects)
+- [My Texas Instruments Projects](https://github.com/AlexandrosPanag/Texas_Instruments)
+- [My VHDL Projects](https://github.com/AlexandrosPanag/My_VHDL_Projects)
 - [My Ruby Projects! (coming soon...)]()
+
 
 
 [![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AlexandrosPanag&&theme=xcode)](https://github.com/AlexandrosPanag)
