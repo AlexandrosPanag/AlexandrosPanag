@@ -47,6 +47,7 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 - [My Processing Projects](https://github.com/AlexandrosPanag/My_Processing_Projects)
 - [My Prolog Projects](https://github.com/AlexandrosPanag/My_Prolog_Projects)
 - [My Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)
+- [My Raspberry Pi Projects](https://github.com/AlexandrosPanag/My_Raspberry_Pi_Projects)
 - [My SQL Projects](https://github.com/AlexandrosPanag/My_SQL_Projects)
 - [My SystemVerilog Projects](https://github.com/AlexandrosPanag/My_System_Verilog_Projects)
 - [My Texas Instruments Projects](https://github.com/AlexandrosPanag/Texas_Instruments)
