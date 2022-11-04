@@ -37,7 +37,7 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 - [My Arduino Projects](https://github.com/AlexandrosPanag/My_Arduino_Projects)
 - [My C Projects](https://github.com/AlexandrosPanag/My-C-Projects)
 - [My C++ Projects](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)
-- [My ESPRESSIF SYSTEMS Projects](https://github.com/AlexandrosPanag/Espressif_Systems)
+- [My Espressif Systems Projects](https://github.com/AlexandrosPanag/My_Espressif_Systems)
 - [My Java Projects](https://github.com/AlexandrosPanag/My-Java-Projects)
 - [My MIPS Assembly Projects](https://github.com/AlexandrosPanag/My-MIPS-Assembly-Projects)
 - [My Markdown Projects](https://github.com/AlexandrosPanag/My_Markdown_Projects)
