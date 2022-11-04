@@ -52,6 +52,7 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 - [My SystemVerilog Projects](https://github.com/AlexandrosPanag/My_System_Verilog_Projects)
 - [My Texas Instruments Projects](https://github.com/AlexandrosPanag/Texas_Instruments)
 - [My VHDL Projects](https://github.com/AlexandrosPanag/My_VHDL_Projects)
+- [Sponsorship Projects](https://github.com/AlexandrosPanag/Sponsorship)
 - [My Ruby Projects! (coming soon...)]()
 
 
