@@ -40,7 +40,7 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 - [My Java Projects](https://github.com/AlexandrosPanag/My-Java-Projects)
 - [My MIPS Assembly Projects](https://github.com/AlexandrosPanag/My-MIPS-Assembly-Projects)
 - [My Markdown Projects](https://github.com/AlexandrosPanag/My_Markdown_Projects)
-- [My MicroPython Projects](https://github.com/AlexandrosPanag/My_MicroPython_Projects)
+- [My DigiXbee Zigbee 3 Projects](https://github.com/AlexandrosPanag/My_MicroPython_Projects)
 - [My OCTAVE / MATLAB Projects](https://github.com/AlexandrosPanag/My_Octave_Projects)
 - [My Processing Projects](https://github.com/AlexandrosPanag/My_Processing_Projects)
 - [My Prolog Projects](https://github.com/AlexandrosPanag/My_Prolog_Projects)
