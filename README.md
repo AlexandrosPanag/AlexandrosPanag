@@ -54,7 +54,7 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 
 
 
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AlexandrosPanag&&theme=xcode)](https://github.com/AlexandrosPanag)
+[![GitHub activity graph][![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlexandrosPanag)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
