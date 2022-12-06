@@ -43,6 +43,7 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 - [My DigiXbee Zigbee 3 Projects](https://github.com/AlexandrosPanag/My_DigiXbee_Zigbee3_Projects)
 - [My OCTAVE / MATLAB Projects](https://github.com/AlexandrosPanag/My_Octave_Projects)
 - [My Processing Projects](https://github.com/AlexandrosPanag/My_Processing_Projects)
+- [My PHP Projects](https://github.com/AlexandrosPanag/MY_PHP_Projects)
 - [My Prolog Projects](https://github.com/AlexandrosPanag/My_Prolog_Projects)
 - [My Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)
 - [My Raspberry Pi Projects](https://github.com/AlexandrosPanag/My_Raspberry_Pi_Projects)
