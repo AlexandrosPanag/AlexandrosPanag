@@ -1,5 +1,5 @@
 
-### IoT Developer | Middleware Engineer | Embedded Systems Programmer | Hardware Engineer | Programmer
+### IoT Developer - Middleware Engineer - Embedded Systems Programmer - Hardware Engineer - Programmer
 
 
 
