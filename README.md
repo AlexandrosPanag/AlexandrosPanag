@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/alexandrospanag">
-    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alexandros+Panagiotakopoulos;%7C+University+Student+%7C+IoT+Developer+Enbedded+Systems+Programmer;Middleware+Engineer+%7C+Hardware+Engineer+%7C+Programmer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Alexandros+Panagiotakopoulos;University+Student+%7C+IoT+Developer+Enbedded+Systems+Programmer;Middleware+Engineer+%7C+Hardware+Engineer+%7C+Programmer" alt="Typing SVG" />
 </a>
 <br/>
 
