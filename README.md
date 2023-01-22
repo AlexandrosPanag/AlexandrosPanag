@@ -8,8 +8,10 @@
 </a>
 <br/>
 
- <img src="https://img.shields.io/github/followers/alexandrospanag?style=flat-square">
-    
+<img src="https://img.shields.io/github/followers/alexandrospanag?style=flat-square">
+
+<img src="https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Falexandrospanag.github.io">
+
 <a href="mailto:a.panagiotakopoulos@outlook.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
@@ -24,6 +26,7 @@
 <a href="https://github.com/alexandrospanag">
     <img src="https://github-stats-alpha.vercel.app/api?username=alexandrospanag&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+
 
 </p>
 
