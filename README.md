@@ -5,25 +5,23 @@
 <br/>
 
 
+<a href="a.panagiotakopoulos@outlook.com">
+    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+</a>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=AlexandrosPanag01&label=Profile%20views&color=129e00&style=plastic" alt="AlexandrosPanag" /> </p>
-
-
-[![GitHub](https://img.shields.io/badge/GitHub-%40alexandrospanag-239a3b.svg)](https://github.com/alexandrospanag)
-[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/)
-
+<br/> 
 
 <a href="https://github.com/alexandrospanag">
-    <img src="https://github-readme-stats.vercel.app/api?username=alexandrospanag&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
+    <img src="https://github-stats-alpha.vercel.app/api?username=drkostas&cc=22272e&tc=37BCF6&ic=fff&bc=0000">
 </a>
+
+</p>
 
 
 Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 
 [-> Click here to view my page <-](https://alexandrospanag.github.io)
-
-
 
 
 
