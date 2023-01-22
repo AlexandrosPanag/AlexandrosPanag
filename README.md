@@ -10,7 +10,7 @@
 
  <img src="https://img.shields.io/github/followers/alexandrospanag?style=flat-square">
     
-<a href="a.panagiotakopoulos@outlook.com">
+<a href="mailto:a.panagiotakopoulos@outlook.com">
     <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
 </a>
 
