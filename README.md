@@ -13,6 +13,12 @@
 [![GitHub](https://img.shields.io/badge/GitHub-%40alexandrospanag-239a3b.svg)](https://github.com/alexandrospanag)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/)
 
+
+<a href="https://github.com/alexandrospanag">
+    <img src="https://github-readme-stats.vercel.app/api?username=alexandrospanag&show_icons=true&count_private=true&show_icons=true&hide_border=true&hide_title=true&card_width=300px&hide_rank=true&bg_color=00000000&theme=dracula">
+</a>
+
+
 Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 
 [-> Click here to view my page <-](https://alexandrospanag.github.io)
