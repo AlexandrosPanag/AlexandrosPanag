@@ -49,6 +49,8 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 
 ------
  <h3 align="left"> <img align="left" alt="Coding" width="30" src="https://i.giphy.com/media/3BBv1D4AFbJkY/giphy.webp">My Projects </h3>
+
+
 ------
 
 <!-- BLOG-POST-LIST:START -->
