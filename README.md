@@ -48,7 +48,7 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 <!-- BLOG-POST-LIST:START -->
 
 
- <h3 align="left"> <img align="left" alt="Coding" width="30" src="https://media2.giphy.com/media/LYBMuRwH3JkhdmLbGE/giphy.gif?cid=ecf05e47jx65wsoe0706u8m33zcjgdboduv6popqnf3h902n&rid=giphy.gif&ct=s">  My Projects </h3>
+ <h3 align="left"> <img align="left" alt="Coding" width="30" src="https://i.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.webp">  My Projects </h3>
 
 <!-- BLOG-POST-LIST:START -->
 - [My Thesis](https://github.com/AlexandrosPanag/My_Thesis)
