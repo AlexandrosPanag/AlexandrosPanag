@@ -46,7 +46,8 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 
 
 <!-- BLOG-POST-LIST:START -->
-
+------
+📰 LATEST NEWS: 03/02/22 - RASPBERRY PI PICO SUPPORT IN MICROPYTHON
 ------
  <h3 align="left"> <img align="left" alt="Coding" width="30" src="https://i.giphy.com/media/3BBv1D4AFbJkY/giphy.webp">My Projects: </h3>
 
