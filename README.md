@@ -51,6 +51,7 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 Latest news & updates:</h3>
 
 -**03/02/2022:** Raspberry Pi Pico Support incoming!
+
 -**22/02/2022:** Espressif Updates that include all of my boards incoming!
 
 
