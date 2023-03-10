@@ -54,6 +54,8 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
  <h3 align="left"> <img align="left" alt="Coding" width="30" src="https://i.giphy.com/media/MC3KkEAAfZroIC0EO8/giphy.webp">
 Latest news & updates:</h3>
 
+-**10/03/2022:** ESP-IDF Solutions incoming!
+
 -**25/02/2022:** ESP32-C3 & Risc-V Assembly Solutions incoming!
 
 -**22/02/2022:** Espressif Updates that include all of my boards incoming!
