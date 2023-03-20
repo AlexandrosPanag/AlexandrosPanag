@@ -56,8 +56,6 @@ Latest news & updates:</h3>
 
 -**10/03/2022:** ESP-IDF Solutions incoming!
 
--**25/02/2022:** ESP32-C3 & Risc-V Assembly Solutions incoming!
-
 -**22/02/2022:** Espressif Updates that include all of my boards incoming!
 
 
