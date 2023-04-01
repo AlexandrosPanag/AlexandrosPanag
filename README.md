@@ -62,10 +62,12 @@ Latest news & updates:</h3>
 ---
  <h3 align="left"> <img align="left" alt="Coding" width="30" src="https://i.giphy.com/media/3BBv1D4AFbJkY/giphy.webp">My Projects: </h3>
 
+
 <!-- BLOG-POST-LIST:START -->
 - [My Thesis](https://github.com/AlexandrosPanag/My_Thesis)
 - [My Android Studio Projects](https://github.com/AlexandrosPanag/My_Android_Studio_Projects)
 - [My Arduino Projects](https://github.com/AlexandrosPanag/My_Arduino_Projects)
+- [My Assembly Projects](https://github.com/AlexandrosPanag/My_Assembly_Projects)
 - [My C Projects](https://github.com/AlexandrosPanag/My-C-Projects)
 - [My C++ Projects](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)
 - [My DigiXbee Zigbee 3 Projects](https://github.com/AlexandrosPanag/My_DigiXbee_Zigbee3_Projects)
@@ -73,7 +75,6 @@ Latest news & updates:</h3>
 - [My Java Projects](https://github.com/AlexandrosPanag/My-Java-Projects)
 - [My Markdown Projects](https://github.com/AlexandrosPanag/My_Markdown_Projects)
 - [My MATLAB Projects](https://github.com/AlexandrosPanag/My_Octave_Projects)
-- [My MIPS Assembly Projects](https://github.com/AlexandrosPanag/My-MIPS-Assembly-Projects)
 - [My PHP Projects](https://github.com/AlexandrosPanag/MY_PHP_Projects)
 - [My Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)
 - [My Raspberry Pi Projects](https://github.com/AlexandrosPanag/My_Raspberry_Pi_Projects)
