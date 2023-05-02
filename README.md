@@ -56,8 +56,7 @@ Latest news & updates:</h3>
 
 -**02/05/2023:** JAVA Repository Updates incoming!
 
--**25/04/2023:** Cryptography with ESP-Based boards! Go to https://github.com/AlexandrosPanag/My_Espressif_Projects/tree/main/Multiple%20Boards/Cryptography.
-For introduction to Cryptographic Algorithms!
+-**25/04/2023:** Cryptography with Wiring! Compatible solutions for both Espressif & Arduino-based boards incoming!
 
 -**10/03/2023:** ESP-IDF Solutions incoming!
 
