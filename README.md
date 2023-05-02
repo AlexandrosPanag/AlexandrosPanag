@@ -56,6 +56,9 @@ Latest news & updates:</h3>
 
 -**02/05/2023:** JAVA Repository Updates incoming!
 
+-**25/04/2023:** Cryptography with ESP-Based boards! Go to https://github.com/AlexandrosPanag/My_Espressif_Projects/tree/main/Multiple%20Boards/Cryptography.
+For introduction to Cryptographic Algorithms!
+
 -**10/03/2023:** ESP-IDF Solutions incoming!
 
 -**22/02/2023:** Espressif Updates that include all of my boards incoming!
