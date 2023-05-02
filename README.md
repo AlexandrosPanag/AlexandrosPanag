@@ -54,7 +54,7 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
  <h3 align="left"> <img align="left" alt="Coding" width="30" src="https://i.giphy.com/media/MC3KkEAAfZroIC0EO8/giphy.webp">
 Latest news & updates:</h3>
 
--**02/05/2023:** JAVA Repository Updates incoming!
+-**02/05/2023:** JAVA & SQL Repository Updates incoming!
 
 -**25/04/2023:** Cryptography with Wiring! Compatible solutions for both Espressif & Arduino-based boards incoming!
 
