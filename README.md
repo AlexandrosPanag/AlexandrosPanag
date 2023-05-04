@@ -77,7 +77,7 @@ Latest news & updates:</h3>
 - [My C++ Projects](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)
 - [My DigiXbee Zigbee 3 Projects](https://github.com/AlexandrosPanag/My_DigiXbee_Zigbee3_Projects)
 - [My Espressif Systems Projects](https://github.com/AlexandrosPanag/My_Espressif_Projects)
-- [My Java Projects](https://github.com/AlexandrosPanag/My-Java-Projects)
+- [My Java Projects](https://github.com/AlexandrosPanag/My_Java_Projects)
 - [My Markdown Projects](https://github.com/AlexandrosPanag/My_Markdown_Projects)
 - [My MATLAB Projects](https://github.com/AlexandrosPanag/My_Octave_Projects)
 - [My PHP Projects](https://github.com/AlexandrosPanag/MY_PHP_Projects)
