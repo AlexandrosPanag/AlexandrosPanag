@@ -74,8 +74,6 @@ Latest news & updates:</h3>
 - [My Assembly Projects](https://github.com/AlexandrosPanag/My_Assembly_Projects)
 - [My C Projects](https://github.com/AlexandrosPanag/My-C-Projects)
 - [My C++ Projects](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)
-- [My Cryptography Projects](https://github.com/AlexandrosPanag/My_Cryptography_Projects)
-- [My DigiXbee Zigbee 3 Projects](https://github.com/AlexandrosPanag/My_DigiXbee_Zigbee3_Projects)
 - [My Espressif Systems Projects](https://github.com/AlexandrosPanag/My_Espressif_Projects)
 - [My Java Projects](https://github.com/AlexandrosPanag/My_Java_Projects)
 - [My Markdown Projects](https://github.com/AlexandrosPanag/My_Markdown_Projects)
