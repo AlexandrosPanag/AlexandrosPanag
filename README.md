@@ -77,7 +77,7 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
-----
+
 
 [github]: https://alexandrospanag.github.io
 [linkedin]: https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
