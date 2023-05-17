@@ -100,8 +100,8 @@ Latest news & updates:</h3>
 
 ### Microcontrollers
 ----
-![Arduino](https://img.shields.io/badge/Arduino.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-![Texas Instruments](https://img.shields.io/badge/Texas Instruments.svg?style=for-the-badge&logo=TexasInstruments&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-FE7A16.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+![Texas Instruments](https://img.shields.io/badge/TexasInstruments-%231572B6.svg?style=for-the-badge&logo=TexasInstruments&logoColor=white)
 
 ---
  <h3 align="left"> <img align="left" alt="Coding" width="30" src="https://i.giphy.com/media/3BBv1D4AFbJkY/giphy.webp">My Projects: </h3>
