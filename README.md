@@ -50,6 +50,7 @@ Latest news & updates:</h3>
 
 -**22/02/2023:** Espressif Updates that include all of my boards incoming!
 
+----
 
 ### Working Languages
 ----
