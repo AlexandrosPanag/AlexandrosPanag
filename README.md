@@ -40,7 +40,7 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 
 ----
 
-### Working Languages
+###  <h3 align="left"> <img align="left" alt="Languages" width="30" src="https://i.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.webp">Working Languages: </h3>
 ----
 
 ![Wiring](https://img.shields.io/badge/wiring-%2300599C.svg?style=for-the-badge&logo=wiring&logoColor=white)
