@@ -88,8 +88,9 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 </p>
 
 
-### Microcontrollers
+### Microcontroller manufacturers
 ----
+![Espressif Systems](https://img.shields.io/badge/Espressif_Systems-%231572B6.svg?style=for-the-badge&logo=Espressif_Systems&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-FE7A16.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Texas Instruments](https://img.shields.io/badge/Texas_Instruments-%231572B6.svg?style=for-the-badge&logo=Texas_Instruments&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-90E59A.svg?style=for-the-badge&logo=Raspberry_Pi%2b%2b&logoColor=black)
