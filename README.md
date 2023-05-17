@@ -98,7 +98,10 @@ Latest news & updates:</h3>
 </p>
 
 
-
+### Microcontrollers
+----
+![Arduino](https://img.shields.io/badge/Arduino.svg?style=for-the-badge&logo=Arduino&logoColor=white)
+![Texas Instruments](https://img.shields.io/badge/Texas Instruments.svg?style=for-the-badge&logo=TexasInstruments&logoColor=white)
 
 ---
  <h3 align="left"> <img align="left" alt="Coding" width="30" src="https://i.giphy.com/media/3BBv1D4AFbJkY/giphy.webp">My Projects: </h3>
