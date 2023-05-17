@@ -37,18 +37,6 @@
 Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 ----
 
-<!-- BLOG-POST-LIST:START -->
----
- <h3 align="left"> <img align="left" alt="Coding" width="30" src="https://i.giphy.com/media/MC3KkEAAfZroIC0EO8/giphy.webp">
-Latest news & updates:</h3>
-
--**SOON: RISC-V ASSEMBLY & SQL SOLUTIONS INCOMING!**
-
--**02/05/2023:** JAVA Repository Updates incoming!
-
--**10/03/2023:** ESP-IDF Solutions incoming!
-
--**22/02/2023:** Espressif Updates that include all of my boards incoming!
 
 ----
 
@@ -104,7 +92,7 @@ Latest news & updates:</h3>
 ----
 ![Arduino](https://img.shields.io/badge/Arduino-FE7A16.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Texas Instruments](https://img.shields.io/badge/Texas_Instruments-%231572B6.svg?style=for-the-badge&logo=Texas_Instruments&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-%231572B6.svg?style=for-the-badge&logo=Raspberry_Pi&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-90E59A.svg?style=for-the-badge&logo=Raspberry_Pi%2b%2b&logoColor=black)
 
 
 ---
