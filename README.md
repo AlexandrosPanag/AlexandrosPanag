@@ -74,6 +74,7 @@ Latest news & updates:</h3>
 <!-- ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) -->
 
 ### Environments /IDEs / Editors
+----
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-FE7A16.svg?style=for-the-badge&logo=Arduino&logoColor=white)
@@ -88,6 +89,7 @@ Latest news & updates:</h3>
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
+----
 
 [github]: https://alexandrospanag.github.io
 [linkedin]: https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/
@@ -102,6 +104,8 @@ Latest news & updates:</h3>
 ----
 ![Arduino](https://img.shields.io/badge/Arduino-FE7A16.svg?style=for-the-badge&logo=Arduino&logoColor=white)
 ![Texas Instruments](https://img.shields.io/badge/Texas_Instruments-%231572B6.svg?style=for-the-badge&logo=Texas_Instruments&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-%231572B6.svg?style=for-the-badge&logo=Raspberry_Pi&logoColor=white)
+
 
 ---
  <h3 align="left"> <img align="left" alt="Coding" width="30" src="https://i.giphy.com/media/3BBv1D4AFbJkY/giphy.webp">My Projects: </h3>
