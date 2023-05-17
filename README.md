@@ -88,13 +88,6 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 </p>
 
 
-### <h3 align="left"> <img align="left" alt="Microcontrollers" width="30" src="https://i.giphy.com/media/sa0AS5ut8Lu6SfSZmq/giphy.webp">Expreience with microcontroller manufacturers:  </h3>
-----
-![Espressif Systems](https://img.shields.io/badge/Espressif_Systems-%231572B6.svg?style=for-the-badge&logo=Espressif_Systems&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-FE7A16.svg?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-90E59A.svg?style=for-the-badge&logo=Raspberry_Pi%2b%2b&logoColor=black)
-![Texas Instruments](https://img.shields.io/badge/Texas_Instruments-%231572B6.svg?style=for-the-badge&logo=Texas_Instruments&logoColor=white)
-![Digi](https://img.shields.io/badge/Digi-90E59A.svg?style=for-the-badge&logo=Digi%2b%2b&logoColor=black)
 
 
 ---
