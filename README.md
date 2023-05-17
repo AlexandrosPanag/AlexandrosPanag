@@ -35,12 +35,12 @@
 
 
 Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
+
+
+
 ----
 
-
-----
-
-###  <h3 align="left"> <img align="left" alt="Languages" width="30" src="https://i.giphy.com/media/ksE9feSa2b4V2GYwY4/giphy.webp">Working Languages: </h3>
+###  <h3 align="left"> <img align="left" alt="Languages" width="30" src="https://i.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.webp">Working Languages: </h3>
 ----
 
 ![Wiring](https://img.shields.io/badge/wiring-%2300599C.svg?style=for-the-badge&logo=wiring&logoColor=white)
@@ -61,7 +61,7 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 <!-- ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) -->
 
-### Environments /IDEs / Editors
+### <h3 align="left"> <img align="left" alt="Environments" width="30" src="https://i.giphy.com/media/JH1av0DjSnr2bhtlJJ/giphy.webp">Environments /IDEs / Editors: </h3>
 ----
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
@@ -88,7 +88,7 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 </p>
 
 
-### Expreience with microcontroller manufacturers
+### <h3 align="left"> <img align="left" alt="Microcontrollers" width="30" src="https://i.giphy.com/media/sa0AS5ut8Lu6SfSZmq/giphy.webp">Expreience with microcontroller manufacturers:  </h3>
 ----
 ![Espressif Systems](https://img.shields.io/badge/Espressif_Systems-%231572B6.svg?style=for-the-badge&logo=Espressif_Systems&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-FE7A16.svg?style=for-the-badge&logo=Arduino&logoColor=white)
