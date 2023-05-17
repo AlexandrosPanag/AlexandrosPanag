@@ -110,7 +110,7 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 - [My Raspberry Pi Projects](https://github.com/AlexandrosPanag/My_Raspberry_Pi_Projects)
 - [My SQL Projects](https://github.com/AlexandrosPanag/My_SQL_Projects)
 - [My SystemVerilog Projects](https://github.com/AlexandrosPanag/My_System_Verilog_Projects)
-- [My Texas Instruments Projects](https://github.com/AlexandrosPanag/Texas_Instruments)
+- [My Texas Instruments Projects](https://github.com/AlexandrosPanag/My_TI_Projects)
 - [My VHDL Projects](https://github.com/AlexandrosPanag/My_VHDL_Projects)
 - [My Ruby Projects! (coming soon...)]()
 
