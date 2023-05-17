@@ -35,7 +35,7 @@
 
 
 Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
-
+----
 
 <!-- BLOG-POST-LIST:START -->
 ---
@@ -52,6 +52,7 @@ Latest news & updates:</h3>
 
 
 ### Working Languages
+----
 
 ![Wiring](https://img.shields.io/badge/wiring-%2300599C.svg?style=for-the-badge&logo=wiring&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
