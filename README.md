@@ -115,7 +115,7 @@ Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 - [My Ruby Projects! (coming soon...)]()
 
 
-[Github github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlexandrosPanag)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[!Github github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AlexandrosPanag)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
