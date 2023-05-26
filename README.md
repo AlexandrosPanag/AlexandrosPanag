@@ -58,7 +58,7 @@ If you find any of the meterial useful feel free to give it a star! ⭐
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/matlab-%231572B6.svg?style=for-the-badge&logo=matlab&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/systemverilog-%231572B6.svg?style=for-the-badge&logo=systemverilog&logoColor=white)
-![SQL](https://img.shields.io/badge/sql-%231572B6.svg?style=for-the-badge&logo=sql&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%231572B6.svg?style=for-the-badge&logo=sql&logoColor=white)\
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 <!-- ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) -->
@@ -110,6 +110,7 @@ If you find any of the meterial useful feel free to give it a star! ⭐
 - [My PHP Projects](https://github.com/AlexandrosPanag/MY_PHP_Projects)
 - [My Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)
 - [My Raspberry Pi Projects](https://github.com/AlexandrosPanag/My_Raspberry_Pi_Projects)
+- [Sensor Networks Bluetooth Project](https://github.com/AlexandrosPanag/Sensor_Networks_Bluetooth_Project)
 - [My SQL Projects](https://github.com/AlexandrosPanag/My_SQL_Projects)
 - [My SystemVerilog Projects](https://github.com/AlexandrosPanag/My_System_Verilog_Projects)
 - [My Texas Instruments Projects](https://github.com/AlexandrosPanag/My_TI_Projects)
