@@ -35,6 +35,8 @@
 
 
 Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
+
+If you found any of the meterial useful feel free to give it a star!
 ---
 
 
