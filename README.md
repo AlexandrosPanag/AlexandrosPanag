@@ -34,14 +34,14 @@
 
 
 Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
----
+
 If you find any of the meterial useful feel free to give it a star! ⭐
----
+
 
 
 ----
 
-###  <h3 align="left"> <img align="left" alt="Languages" width="30" src="https://i.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.webp">Working Languages: </h3>
+###  <h4 align="left"> <img align="left" alt="Languages" width="30" src="https://i.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.webp">Working Languages: </h4>
 ----
 
 ![Wiring](https://img.shields.io/badge/wiring-%2300599C.svg?style=for-the-badge&logo=wiring&logoColor=white)
@@ -62,7 +62,7 @@ If you find any of the meterial useful feel free to give it a star! ⭐
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
 <!-- ![Scala](https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white) -->
 
-### <h3 align="left"> <img align="left" alt="Environments" width="30" src="https://i.giphy.com/media/JH1av0DjSnr2bhtlJJ/giphy.webp">Environments /IDEs / Editors: </h3>
+### <h4 align="left"> <img align="left" alt="Environments" width="30" src="https://i.giphy.com/media/JH1av0DjSnr2bhtlJJ/giphy.webp">Environments /IDEs / Editors: </h4>
 ----
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
@@ -92,7 +92,7 @@ If you find any of the meterial useful feel free to give it a star! ⭐
 
 
 ---
- <h3 align="left"> <img align="left" alt="Coding" width="30" src="https://i.giphy.com/media/3BBv1D4AFbJkY/giphy.webp">My Projects: </h3>
+ <h4 align="left"> <img align="left" alt="Coding" width="30" src="https://i.giphy.com/media/3BBv1D4AFbJkY/giphy.webp">My Projects: </h4>
 
 
 <!-- BLOG-POST-LIST:START -->
