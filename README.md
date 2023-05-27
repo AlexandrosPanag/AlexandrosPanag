@@ -18,7 +18,7 @@
 
 
 <a href="mailto:a.panagiotakopoulos@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white">
+    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
     
