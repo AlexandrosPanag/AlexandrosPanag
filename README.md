@@ -8,7 +8,6 @@
 </a>
 <br/>
 
-<img src ="https://img.shields.io/github/followers/alexandrospanag?style=flat-square">
 
 <a href="https://github.com/wervlad">
     <img src="https://komarev.com/ghpvc/?username=alexandrospanag&color=blue&style=flat)" />
