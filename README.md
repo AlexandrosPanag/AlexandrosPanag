@@ -9,10 +9,6 @@
 <br/>
 
 
-<a href="https://github.com/wervlad">
-    <img src="https://komarev.com/ghpvc/?username=alexandrospanag&color=blue&style=flat)" />
-  </a>
-    
 <a href="https://alexandrospanag.github.io">
     <img src="https://img.shields.io/website?style=flat-square&url=https%3A%2F%2Falexandrospanag.github.io">
 </a>
