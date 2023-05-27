@@ -111,7 +111,7 @@ If you find any of the meterial useful feel free to give it a star! ⭐
 - [My Java Projects](https://github.com/AlexandrosPanag/My_Java_Projects)
 - [My Markdown Projects](https://github.com/AlexandrosPanag/My_Markdown_Projects)
 - [My MATLAB Projects](https://github.com/AlexandrosPanag/My_Octave_Projects)
-- [My PHP Projects](https://github.com/AlexandrosPanag/MY_PHP_Projects)
+- [My PHP Projects (Coming soon...)](https://github.com/AlexandrosPanag/MY_PHP_Projects)
 - [My Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)
 - [My Raspberry Pi Projects](https://github.com/AlexandrosPanag/My_Raspberry_Pi_Projects)
 - [Sensor Networks Bluetooth Project](https://github.com/AlexandrosPanag/Sensor_Networks_Bluetooth_Project)
