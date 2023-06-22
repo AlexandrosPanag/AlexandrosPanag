@@ -26,10 +26,12 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
+<!---
 <a href='https://scholar.google.com/citations?hl=en&user=dPClR8UAAAAJ' target="_blank">
     <img alt='GoogleScholar' src='https://img.shields.io/badge/Scholar-100000?style=for-the-badge&logo=GoogleScholar&logoColor=white&&color=0181FF'>
 </a>
-    
+!-->
+
 <br/> 
 
 
