@@ -43,8 +43,15 @@
 * If you find any of the meterial useful feel free to give it a star! ⭐
 
 ---
-News 📰
+
+###  <h4 align="left"> <img align="left" alt="news" width="30" src="https://i.giphy.com/media/jInvy4bbeCXuUtl4Sk/giphy.webp"> News & Updates: </h4>
 ---
+
+
+June: GITHUB EDUCATION UPDATE! - Most of my repositories are available on GitHub Education! https://education.github.com/globalcampus/exchange
+
+
+
 June: Python updates incoming
 
 ----
