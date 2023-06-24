@@ -105,7 +105,7 @@
 - [My Android Studio Projects](https://github.com/AlexandrosPanag/My_Android_Studio_Projects)
 - [My Arduino Projects](https://github.com/AlexandrosPanag/My_Arduino_Projects)
 - [My Assembly Projects](https://github.com/AlexandrosPanag/My_Assembly_Projects)
-- [My C Projects](https://github.com/AlexandrosPanag/My-C-Projects)
+- [My C Projects](https://github.com/AlexandrosPanag/My_C_Projects)
 - [My C++ Projects](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)
 - [My Espressif Systems Projects](https://github.com/AlexandrosPanag/My_Espressif_Projects)
 - [My Java Projects](https://github.com/AlexandrosPanag/My_Java_Projects)
