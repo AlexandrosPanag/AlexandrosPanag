@@ -42,7 +42,10 @@
 
 * If you find any of the meterial useful feel free to give it a star! ⭐
 
-
+---
+News 📰
+---
+June: Python updates incoming
 
 ----
 
