@@ -113,7 +113,7 @@
 - [My MATLAB Projects](https://github.com/AlexandrosPanag/My_Octave_Projects)
 - [My PHP Projects (Coming soon...)](https://github.com/AlexandrosPanag/MY_PHP_Projects)
 - [My Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)
-- [My Raspberry Pi Projects](https://github.com/AlexandrosPanag/My_Raspberry_Pi_Projects)
+- [My Raspberry Pi Pico_Projects](https://github.com/AlexandrosPanag/My_Raspberry_Pi_Pico_Projects)
 - [Sensor Networks Bluetooth Project](https://github.com/AlexandrosPanag/Sensor_Networks_Bluetooth_Project)
 - [My SQL Projects](https://github.com/AlexandrosPanag/My_SQL_Projects)
 - [My SystemVerilog Projects](https://github.com/AlexandrosPanag/My_System_Verilog_Projects)
