@@ -44,7 +44,7 @@
 
 ---
 
-###  <h4 align="left"> <img align="left" alt="news" width="30" src="https://i.giphy.com/media/jInvy4bbeCXuUtl4Sk/giphy.webp"> News & Updates: </h4>
+###  <h4 align="left"> <img align="left" alt="news" width="30" src="https://i.giphy.com/media/jInvy4bbeCXuUtl4Sk/giphy.webp"> Latest News & Updates: </h4>
 ---
 
 
