@@ -48,11 +48,11 @@
 ---
 
 
-June: GITHUB EDUCATION UPDATE! - Most of my repositories are available on GitHub Education! https://education.github.com/globalcampus/exchange
+◙ June: GITHUB EDUCATION UPDATE! - Most of my repositories are available on GitHub Education! https://education.github.com/globalcampus/exchange
 
 
 
-June: Python updates incoming
+◙ June: Python updates incoming
 
 ----
 
