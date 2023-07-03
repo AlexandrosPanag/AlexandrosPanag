@@ -52,7 +52,7 @@
 
 
 
-◙ June: Python updates incoming
+◙ July: Python updates incoming
 
 ----
 
