@@ -16,11 +16,6 @@
     <img src="https://img.shields.io/website?style=for-the-badge&up_color=blue&up_message=UP&url=https%3A%2F%2Falexandrospanag.github.io">
 </a>
 
-
-<a href="mailto:a.panagiotakopoulos@outlook.com">
-    <img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
     
 <a href="https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
