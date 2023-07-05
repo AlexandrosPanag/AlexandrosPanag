@@ -35,7 +35,7 @@
 
 * Hi, I am [@alexandrospanag](https://github.com/alexandrospanag). 👋
 
-* If you find any of the meterial useful feel free to give it a star! ⭐
+
 
 ---
 
@@ -44,7 +44,7 @@
 
 
 
-◙ July: Website and account will be down until 2024. Thank you for your time and patience.
+◙ July: Website and account will be down until November 2024. Thank you for your time and patience.
 
 ----
 
