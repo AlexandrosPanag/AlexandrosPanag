@@ -43,9 +43,6 @@
 ---
 
 
-◙ June: GITHUB EDUCATION UPDATE! - Most of my repositories are available on GitHub Education! https://education.github.com/globalcampus/exchange
-
-
 
 ◙ July: Website and account will be down until 2024. Thank you for your time and patience.
 
