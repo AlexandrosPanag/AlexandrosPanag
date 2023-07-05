@@ -47,7 +47,7 @@
 
 
 
-◙ July: Python updates incoming
+◙ July: Website and account will be down until 2024. Thank you for your time and patience.
 
 ----
 
