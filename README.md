@@ -103,25 +103,8 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [My Thesis](https://github.com/AlexandrosPanag/My_Thesis)
-- [My Android Studio Projects](https://github.com/AlexandrosPanag/My_Android_Studio_Projects)
-- [My Arduino Projects](https://github.com/AlexandrosPanag/My_Arduino_Projects)
-- [My Assembly Projects](https://github.com/AlexandrosPanag/My_Assembly_Projects)
-- [My C Projects](https://github.com/AlexandrosPanag/My_C_Projects)
-- [My C++ Projects](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)
-- [My Espressif Systems Projects](https://github.com/AlexandrosPanag/My_Espressif_Projects)
-- [My Java Projects](https://github.com/AlexandrosPanag/My_Java_Projects)
-- [My Markdown Projects](https://github.com/AlexandrosPanag/My_Markdown_Projects)
-- [My MATLAB Projects](https://github.com/AlexandrosPanag/My_Octave_Projects)
-- [My PHP Projects (Coming soon...)](https://github.com/AlexandrosPanag/MY_PHP_Projects)
-- [My Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)
-- [My Raspberry Pi Pico_Projects](https://github.com/AlexandrosPanag/My_Raspberry_Pi_Pico_Projects)
-- [Sensor Networks Bluetooth Project](https://github.com/AlexandrosPanag/Sensor_Networks_Bluetooth_Project)
-- [My SQL Projects](https://github.com/AlexandrosPanag/My_SQL_Projects)
-- [My SystemVerilog Projects](https://github.com/AlexandrosPanag/My_System_Verilog_Projects)
-- [My Texas Instruments Projects](https://github.com/AlexandrosPanag/My_TI_Projects)
-- [My VHDL Projects](https://github.com/AlexandrosPanag/My_VHDL_Projects)
-- [My Ruby Projects! (coming soon...)]()
+- [My BCS Thesis](https://github.com/AlexandrosPanag/My_Thesis)
+- [My Microcontroller Projects](https://github.com/AlexandrosPanag/Microcontroller-master)
 
 
 
