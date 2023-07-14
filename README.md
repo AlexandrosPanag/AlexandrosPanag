@@ -42,9 +42,8 @@
 ###  <h4 align="left"> <img align="left" alt="news" width="30" src="https://i.giphy.com/media/jInvy4bbeCXuUtl4Sk/giphy.webp"> Latest News & Updates: </h4>
 ---
 
-◙ July: Graduated from the University of Ioannina, Department of Informatics & Telecommunications.
 
-◙ July: Website and account will be down until November 2024. Thank you for your time and patience.
+-> IMPORTANT : Website and account will be down until November 2024. Thank you for your time and patience. <-
 
 ----
 
