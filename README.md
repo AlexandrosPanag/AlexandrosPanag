@@ -103,8 +103,8 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [My BCS Thesis](https://github.com/AlexandrosPanag/My_Thesis)
-- [My Microcontroller Projects](https://github.com/AlexandrosPanag/Microcontroller-master)
+- [PRNAME](https://github.com/AlexandrosPanag/PRLINK)
+
 
 
 
