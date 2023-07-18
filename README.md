@@ -27,7 +27,6 @@
 </a>
 !-->
 
-<br/> 
 
 
 </p>
@@ -44,8 +43,6 @@
 
 
 -> IMPORTANT : Website and account will be down until November 2024. Thank you for your time and patience. <-
-
-----
 
 
 
