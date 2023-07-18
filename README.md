@@ -63,7 +63,23 @@
 
 
 <!-- BLOG-POST-LIST:START -->
-- [NULL](https://github.com/AlexandrosPanag/PRLINK)
+
+- [My Arduino Projects](https://github.com/AlexandrosPanag/My_Arduino_Projects)
+- [My Assembly Projects](https://github.com/AlexandrosPanag/My_Assembly_Projects)
+- [My C Projects](https://github.com/AlexandrosPanag/My_C_Projects)
+- [My C++ Projects](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)
+- [My Espressif Systems Projects](https://github.com/AlexandrosPanag/My_Espressif_Projects)
+- [My Markdown Projects](https://github.com/AlexandrosPanag/My_Markdown_Projects)
+- [My MATLAB Projects](https://github.com/AlexandrosPanag/My_MATLAB_Projects)
+- [My Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)
+- [My Java Projects](https://github.com/AlexandrosPanag/My_Java_Projects)
+- [My Raspberry Pi Pico Projects](https://github.com/AlexandrosPanag/My_Raspberry_Pi_Pico_Projects)
+- [My SQL Projects](https://github.com/AlexandrosPanag/My_SQL_Projects)
+- [My SystemVerilog Projects](https://github.com/AlexandrosPanag/My_System_Verilog_Projects)
+- [My Texas Instruments Projects](https://github.com/AlexandrosPanag/My_TI_Projects)
+- [My VHDL Projects](https://github.com/AlexandrosPanag/My_VHDL_Projects)
+- [My Android Studio Projects](https://github.com/AlexandrosPanag/My_Android_Studio_Projects)
+- [My Sensor Networks Projects](https://github.com/AlexandrosPanag/Sensor_Networks_Bluetooth_Project)
 
 
 
