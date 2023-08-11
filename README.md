@@ -80,6 +80,8 @@
 - [My VHDL Projects](https://github.com/AlexandrosPanag/My_VHDL_Projects)
 - [My Android Studio Projects](https://github.com/AlexandrosPanag/My_Android_Studio_Projects)
 - [My Sensor Networks Projects](https://github.com/AlexandrosPanag/Sensor_Networks_Bluetooth_Project)
+- [My Thesis](https://github.com/AlexandrosPanag/My_Thesis)
+
 
 
 
