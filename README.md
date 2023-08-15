@@ -42,7 +42,7 @@
 ---
 
 
- <h4 align="left"> <img align="left" alt="Coding" width="30" src="https://i.giphy.com/media/MaEHwVOESdbRwrF971/giphy.webp">Rpositories will be private until October 2024. Thank you for your time and patience. </h4>
+ <h4 align="left"> <img align="left" alt="Coding" width="30" src="https://i.giphy.com/media/MaEHwVOESdbRwrF971/giphy.webp">Repositories will be private until October 2024. Thank you for your time and patience. </h4>
 
 
 
