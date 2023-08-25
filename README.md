@@ -76,6 +76,7 @@
 - [My Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)
 - [My Java Projects](https://github.com/AlexandrosPanag/My_Java_Projects)
 - [My Raspberry Pi Pico Projects](https://github.com/AlexandrosPanag/My_Raspberry_Pi_Pico_Projects)
+- [NEW!! My Ruby Projects](https://github.com/AlexandrosPanag/My_Ruby_Projects)
 - [My SQL Projects](https://github.com/AlexandrosPanag/My_SQL_Projects)
 - [My SystemVerilog Projects](https://github.com/AlexandrosPanag/My_SystemVerilog_Projects)
 - [My Texas Instruments Projects](https://github.com/AlexandrosPanag/My_TI_Projects)
