@@ -43,7 +43,7 @@
 ###  <h4 align="left"> <img align="left" alt="news" width="30" src="https://i.giphy.com/media/jInvy4bbeCXuUtl4Sk/giphy.webp"> Latest News & Updates: </h4>
 ---
 
-26/08: New Ruby Repository coming in progress. Expected release date late 2024.
+*26/08: New Ruby Repository coming in progress. Expected release date late 2024.
 
  <h4 align="left"> <img align="left" alt="Coding" width="30" src="https://i.giphy.com/media/MaEHwVOESdbRwrF971/giphy.webp">Repositories will NOT be updated until September 2024. Thank you for your time and patience. </h4>
 
