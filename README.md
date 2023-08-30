@@ -45,7 +45,7 @@
 
 * 20/07: New JAVA algorithm based solutions.
   
-* 26/08: New Ruby Repository incoming! Expected release date late 2024-2025.
+* 26/08: New Ruby Repository incoming! Along with Python solutions, expected release date late 2024-2025.
 
 * 31/08: New C# Repository incoming! Expected release date late 2024-2025. 
 
