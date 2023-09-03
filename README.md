@@ -45,7 +45,7 @@
 ###  <h4 align="left"> <img align="left" alt="news" width="30" src="https://i.giphy.com/media/jInvy4bbeCXuUtl4Sk/giphy.webp"> Latest News & Updates: </h4>
 ---
 
-* 20/07: New JAVA algorithm based solutions.
+* 20/07: New Java algorithm-based solutions.
   
 * 26/08: New Ruby Repository incoming! Along with Python solutions, expected release date late 2024-2025.
 
