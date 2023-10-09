@@ -44,7 +44,7 @@
   
 *  Welcome to my GitHub portfolio! Feel free to check out my personal website! 👋
 
-
+*  If you find any of my material useful, feel free to give it a star! ⭐
 
 ---
 
