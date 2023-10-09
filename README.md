@@ -51,7 +51,7 @@
 
 * 31/08: New C# Repository incoming! Expected release date late 2024-2025. 
 
- <h4 align="left"> <img align="left" alt="Coding" width="30" src="https://i.giphy.com/media/MaEHwVOESdbRwrF971/giphy.webp"> IMPORTANT NOTICE: Repositories will NOT be updated until September 2024. Thank you for your time and patience. </h4>
+ <h4 align="left"> <img align="left" alt="Coding" width="30" src="https://i.giphy.com/media/MaEHwVOESdbRwrF971/giphy.webp"> IMPORTANT NOTICE: Repositories will NOT be updated until June 2024. Thank you for your time and patience. </h4>
 
 
 
