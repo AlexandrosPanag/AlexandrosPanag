@@ -98,8 +98,8 @@
 - [My Sensor Networks Projects](https://github.com/AlexandrosPanag/Sensor_Networks_Bluetooth_Project)
 - [My Thesis](https://github.com/AlexandrosPanag/My_Thesis)
 
-[![](https://komarev.com/ghpvc/?username=alexandrospanag&style=for-the-badge&color=006bb3)](https://github.com/alexandrospanag)
 
+![](./metrics.svg)
 
 
 
