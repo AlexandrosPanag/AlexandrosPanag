@@ -43,7 +43,7 @@
 
 * Hi, I am [@alexandrospanag](https://github.com/alexandrospanag).
   
-*  Welcome to my GitHub portfolio! Feel free to check out my personal website! 👋
+*  Welcome to my GitHub portfolio! Feel free to check out my [personal website !](alexandrospanag.github.io) 👋
 
 *  If you find any of my material useful, feel free to give it a star! ⭐
 
