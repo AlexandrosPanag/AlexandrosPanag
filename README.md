@@ -3,7 +3,7 @@
     
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40alexandrospanag-239a3b.svg)](https://github.com/alexandrospanag)
-
+[![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/)
     
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1500&pause=1000&multiline=true&width=500&height=80&lines=Alexandros+Panagiotakopoulos;Back-End-Developer+%7C+Embedded+Software+Engineer;+Middleware+Engineer+%7C+IoT Developer+%7C+Programmer" alt="Typing SVG" />
 </a>
@@ -24,9 +24,6 @@
 
 
 
-<a href="https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
 
 
 
