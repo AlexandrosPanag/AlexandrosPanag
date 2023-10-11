@@ -2,7 +2,8 @@
 <a href="https://github.com/alexandrospanag">
     
 
-    
+[![GitHub](https://img.shields.io/badge/GitHub-%40alexandrospanag-239a3b.svg)](https://github.com/alexandrospanag)
+
     
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1500&pause=1000&multiline=true&width=500&height=80&lines=Alexandros+Panagiotakopoulos;IoT+Developer+%7C+Embedded+Software+Engineer;+Middleware+Engineer+%7C+Back-End-Developer+%7C+Programmer" alt="Typing SVG" />
 </a>
