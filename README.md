@@ -97,7 +97,7 @@
 - [My Sensor Networks Projects](https://github.com/AlexandrosPanag/Sensor_Networks_Bluetooth_Project)
 - [My Thesis](https://github.com/AlexandrosPanag/My_Thesis)
 
-###  <h4 align="left"> <img align="left" alt="sponsorship" width="30" src="https://i.giphy.com/media/ro5EWXNCx8LmIbEKQR/giphy.webp"> Sponsorships: </h4>
+###  <h4 align="left"> <img align="left" alt="sponsorship" width="30" src="https://i.giphy.com/media/ro5EWXNCx8LmIbEKQR/giphy.webp"> Sponsorships </h4>
 ---
 
 
