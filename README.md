@@ -101,7 +101,7 @@
 
 
 ---
-###  <h4 align="left"> <img align="left" alt="sponsorship" width="30" src="https://i.giphy.com/media/ro5EWXNCx8LmIbEKQR/giphy.webp"> Sponsorships </h4>
+###  <h4 align="left"> <img align="left" alt="sponsorship" width="30" src="https://i.giphy.com/media/ro5EWXNCx8LmIbEKQR/giphy.webp"> Sponsorships: </h4>
 ---
 
 
