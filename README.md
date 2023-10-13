@@ -97,5 +97,7 @@
 - [My Sensor Networks Projects](https://github.com/AlexandrosPanag/Sensor_Networks_Bluetooth_Project)
 - [My Thesis](https://github.com/AlexandrosPanag/My_Thesis)
 
+🤝🏼 Sponsorships
+-----
 
 
