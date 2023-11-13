@@ -4,7 +4,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-%40alexandrospanag-239a3b.svg)](https://github.com/alexandrospanag)
 [![LinkedIn](https://img.shields.io/badge/Linked-in-0c66c3.svg)](https://www.linkedin.com/in/αλέξανδρος-παναγιωτακόπουλος/)
-[![LinkedIn](https://img.shields.io/static/v1?label=Sponsor&message=❤&logo=GitHub&color=ff69b4)](https://github.com/sponsors/AlexandrosPanag)
+[![Sponsorship](https://img.shields.io/static/v1?label=Sponsor&message=❤&logo=GitHub&color=ff69b4)](https://github.com/sponsors/AlexandrosPanag)
 
     
 <img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1500&pause=1000&multiline=true&width=500&height=80&lines=Alexandros+Panagiotakopoulos;Back-End-Developer+%7C+Embedded+Software+Engineer;+Middleware+Engineer+%7C+IoT Developer+%7C+Programmer" alt="Typing SVG" />
@@ -20,7 +20,7 @@
 </a>
 
 
-<a href="https://alexandrospanag.github.io">
+<a>
  <img src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub%20Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/alexandrospanag">
 </a>
 
