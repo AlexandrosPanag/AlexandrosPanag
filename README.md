@@ -59,7 +59,7 @@
 
 * 30/05/24: New Web Development release along with HTML5, CSS & Javascript solutions.
 
-* EST. 2025-2028 - CODENAME "PROJECT ATLAS", A unique JRPG-Style game full of a rich and unique story will be available through a variaty of marketplaces. More information will be available soon.TBA.
+* EST. 2025-2028 - CODENAME "PROJECT ATLAS", A unique JRPG-Style game full of a rich and unique story will be available through a variety of marketplaces. More information will be available soon.TBA.
 ---
 
 
