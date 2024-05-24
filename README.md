@@ -57,7 +57,9 @@
 
 * 12/10/23: New Ruby Repository release along with C# & Python solutions, expected release date late 2024-2025.
 
-* 03/04/24: Incoming Javascript x RPG Maker MZ Repository release.
+* 30/05/24: New Web Development release along with HTML5, CSS & Javascript solutions.
+
+* ESTIMATED 2025-2028 - CODENAME "PROJECT ATLAS", A unique RPG game full of a rich and unique story will be available through a variaty of marketplaces TBA.
 ---
 
 
