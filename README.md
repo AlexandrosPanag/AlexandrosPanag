@@ -90,7 +90,7 @@
 - [My C# Projects](https://github.com/AlexandrosPanag/My_C_Sharp_Projects)
 - [My C++ Projects](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)
 - [My Espressif Systems Projects](https://github.com/AlexandrosPanag/My_Espressif_Projects)
-- [My Javascript X RPG Maker MZ]()
+
 - [My Markdown Projects](https://github.com/AlexandrosPanag/My_Markdown_Projects)
 - [My MATLAB Projects](https://github.com/AlexandrosPanag/My_MATLAB_Projects)
 - [My Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)
