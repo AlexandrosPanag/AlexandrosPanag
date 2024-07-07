@@ -57,7 +57,7 @@
 
 * 12/10/23: New Ruby Repository release along with C# & Python solutions, expected release date late 2024-2025.
 
-* 30/05/24: New Web Development release along with HTML5, CSS & Javascript solutions. Expected release date late 2024-2025.
+* 07/07/24: New Web Development release along with HTML5, CSS & Javascript solutions. Expected release date late 2024-2025.
 
 ---
 
