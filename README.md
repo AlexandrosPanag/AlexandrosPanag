@@ -89,11 +89,11 @@
 - [My C# Projects](https://github.com/AlexandrosPanag/My_C_Sharp_Projects)
 - [My C++ Projects](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)
 - [My Espressif Systems Projects](https://github.com/AlexandrosPanag/My_Espressif_Projects)
-
 - [My Markdown Projects](https://github.com/AlexandrosPanag/My_Markdown_Projects)
 - [My MATLAB Projects](https://github.com/AlexandrosPanag/My_MATLAB_Projects)
 - [My Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)
 - [My Java Projects](https://github.com/AlexandrosPanag/My_Java_Projects)
+- [My JavaScript Projects](https://github.com/AlexandrosPanag/My_JavaScript_Projects)
 - [My Raspberry Pi Pico Projects](https://github.com/AlexandrosPanag/My_Raspberry_Pi_Pico_Projects)
 - [My Ruby Projects](https://github.com/AlexandrosPanag/My_Ruby_Projects)
 - [My SQL Projects](https://github.com/AlexandrosPanag/My_SQL_Projects)
