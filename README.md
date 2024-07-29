@@ -7,7 +7,7 @@
 [![Sponsorship](https://img.shields.io/static/v1?label=Sponsor&message=❤&logo=GitHub&color=ff69b4)](https://github.com/sponsors/AlexandrosPanag)
 
     
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1500&pause=1000&multiline=true&width=500&height=80&lines=Alexandros+Panagiotakopoulos;Back-End-Developer+%7C+Embedded+Software+Engineer;+Middleware+Engineer+%7C+IoT Developer+%7C+Programmer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=18&duration=1500&pause=1000&multiline=true&width=500&height=80&lines=Alexandros+Panagiotakopoulos;Embedded+Software+Engineer;+Middleware+Engineer+%7C+IoT Developer+%7C+Programmer+%7C+Back-End-Developer+%7C+" alt="Typing SVG" />
 </a>
 <br/>
 
