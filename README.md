@@ -59,6 +59,7 @@
 
 * 07/07/24: New Web Development release along with HTML5, CSS & Javascript solutions. Expected release date late 2024-2025.
 
+* SOON: ESP & ARDUINO LIGHTING ULTIMATE CASTLE PROJECT! 
 ---
 
 
