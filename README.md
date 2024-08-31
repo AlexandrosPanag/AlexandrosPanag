@@ -59,7 +59,7 @@
 
 * 07/07/24: New Web Development release along with HTML5, CSS & Javascript solutions. Expected release date late 2024-2025.
 
-* SOON: ESP8266 based wireless LED-lighting LAN-Solution that can be controlled remotely! Compatible with Arduino Boards as long as Wi-Fi is supported. 
+* SOON: ESP8266 & ESP32 based wireless LED-lighting LAN-Solution that can be controlled remotely! Compatible with Arduino Boards as long as Wi-Fi is supported. 
 ---
 
 
