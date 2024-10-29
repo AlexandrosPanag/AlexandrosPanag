@@ -51,15 +51,7 @@
 ###  <h4 align="left"> <img align="left" alt="news" width="30" src="https://i.giphy.com/media/jInvy4bbeCXuUtl4Sk/giphy.webp"> Latest News & Updates: </h4>
 ---
 
-* 20/07/23: New Java algorithm-based solutions.
-  
-* 31/08/23: New C# Repository release! Expected release date late 2024-2025. 
-
-* 12/10/23: New Ruby Repository release along with C# & Python solutions, expected release date late 2024-2025.
-
-* 07/07/24: New Web Development release along with HTML5, CSS & Javascript solutions. Expected release date late 2024-2025.
-
-* SOON: ESP8266 & ESP32 based wireless LED-lighting LAN-Solution that can be controlled remotely! Compatible with Arduino Boards as long as Wi-Fi is supported. 
+* 30/10/2024: Due to health issues website, profile and all my activity will remain inactive for the forseeable future.
 ---
 
 
