@@ -51,7 +51,7 @@
 ###  <h4 align="left"> <img align="left" alt="news" width="30" src="https://i.giphy.com/media/jInvy4bbeCXuUtl4Sk/giphy.webp"> Latest News & Updates: </h4>
 ---
 
-* 30/10/2024: Due to health issues website, profile and all my activity will remain inactive for the forseeable future.
+* 19/11/2024: New Projects Coming Soon...
 ---
 
 
@@ -62,7 +62,7 @@
 ###  <h4 align="left"> <img align="left" alt="news" width="30" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3p4cnVqM3NzazM3YWZzcDc1ZGx1b201M2RmNTQzYzJlYmF3dGx6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VxsuGj6LVYVV65DSSU/giphy.webp"> Indicative publications: </h4>
 ---
 
-* " XX YYY" 2024
+* Coming soon!!
 ---
 
 
