@@ -52,6 +52,7 @@
 ---
 
 * 19/11/2024: New Ruby & C# Solutions coming soon
+* 12/07/2024: GitHub Secure Open Fund Participation Implementation Repository
 ---
 
 
