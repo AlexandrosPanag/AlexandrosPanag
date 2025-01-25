@@ -51,10 +51,7 @@
 ###  <h4 align="left"> <img align="left" alt="news" width="30" src="https://i.giphy.com/media/jInvy4bbeCXuUtl4Sk/giphy.webp"> Latest News & Updates: </h4>
 ---
 
-* 19/11/2024: New Ruby & C# Solutions coming soon
 * 07/12/2024: GitHub Secure Open Fund Participation Implementation Repository
-* 02/01/2025: HMU Comp - A mobile HMU MSCIE Companion Application launching soon!
-* 05/01/2025: ESP32C3 & ESP8266 Fuzzy Logic Projects Incoming
 * 17/01/2025: HMU Comp mobile application - RELEASE!
 ---
 
