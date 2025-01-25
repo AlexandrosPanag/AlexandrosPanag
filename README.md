@@ -89,7 +89,6 @@
 - [My MATLAB Projects](https://github.com/AlexandrosPanag/My_MATLAB_Projects)
 - [My Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)
 - [My Java Projects](https://github.com/AlexandrosPanag/My_Java_Projects)
-<!-- [My JavaScript Projects](https://github.com/AlexandrosPanag/My_JavaScript_Projects) -->
 - [My Raspberry Pi Pico Projects](https://github.com/AlexandrosPanag/My_Raspberry_Pi_Pico_Projects)
 - [My Ruby Projects](https://github.com/AlexandrosPanag/My_Ruby_Projects)
 - [My SQL Projects](https://github.com/AlexandrosPanag/My_SQL_Projects)
@@ -99,6 +98,8 @@
 - [My Sensor Bluetooth Network Project](https://github.com/AlexandrosPanag/Sensor_Networks_Bluetooth_Project)
 - [My Thesis](https://github.com/AlexandrosPanag/My_Thesis)
 
+
+<!-- [My JavaScript Projects](https://github.com/AlexandrosPanag/My_JavaScript_Projects) -->
 
 
 
