@@ -51,6 +51,7 @@
 
 * 07/12/2024: GitHub Secure Open Fund Participation Implementation Repository
 * 17/01/2025: HMU Comp mobile application - RELEASE!
+* 07/03/2025: MIPS Assembly Codes Massive Repository Update.
 ---
 
 
