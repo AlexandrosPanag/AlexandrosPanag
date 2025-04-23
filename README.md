@@ -83,6 +83,7 @@
 - [My C Projects](https://github.com/AlexandrosPanag/My_C_Projects)
 - [My C# Projects](https://github.com/AlexandrosPanag/My_C_Sharp_Projects)
 - [My C++ Projects](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)
+- [My Discord Projects](https://github.com/AlexandrosPanag/My_Discord_Projects/tree/main)
 - [My Espressif Systems Projects](https://github.com/AlexandrosPanag/My_Espressif_Projects)
 - [My Markdown Projects](https://github.com/AlexandrosPanag/My_Markdown_Projects)
 - [My MATLAB Projects](https://github.com/AlexandrosPanag/My_MATLAB_Projects)
