@@ -46,7 +46,7 @@
 * 17/01/2025: HMU Comp mobile application - RELEASE!
 * 24/04/2025: My Discord Repository + Arduino Repository Update release (incoming) along with python updates etc.
 * 21/06/2025: My own eClass Website has been established!
-* 20/07/2025: STAR DiscordBot officially released. Available for purchase.
+* 28/08/2025: STAR DiscordBot officially released.
 ---
 
 
