@@ -42,29 +42,8 @@
 ###  <h4 align="left"> <img align="left" alt="news" width="30" src="https://i.giphy.com/media/jInvy4bbeCXuUtl4Sk/giphy.webp"> Latest News & Updates: </h4>
 ---
 
-* 07/12/2024: GitHub Secure Open Fund Participation Implementation Repository
-* 17/01/2025: HMU Comp mobile application - RELEASE!
-* 24/04/2025: My Discord Repository + Arduino Repository Update release (incoming) along with python updates etc.
-* 21/06/2025: My own eClass Website has been established!
-* 28/08/2025: STAR DiscordBot officially released.
+* 03/09/2025: RPG Maker MZ Plug-in JavaScript solutions repository.
 ---
-
-
- 
-
-
-
-###  <h4 align="left"> <img align="left" alt="news" width="30" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3p4cnVqM3NzazM3YWZzcDc1ZGx1b201M2RmNTQzYzJlYmF3dGx6eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VxsuGj6LVYVV65DSSU/giphy.webp"> Indicative publications: </h4>
----
-
-* Coming soon!!
----
-
-
-
-
-
-</p>
 
 
 
