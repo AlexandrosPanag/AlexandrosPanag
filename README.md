@@ -51,6 +51,7 @@
 
 
 <!-- BLOG-POST-LIST:START -->
+- [MY RPG MAKER MZ Plugins](https://github.com/AlexandrosPanag/My_RPGMAKERMZ_Plugins_Repository)
 - [HMU Comp - Mobile App](https://github.com/AlexandrosPanag/HMU_Companion_Application)
 - [My Arduino Projects](https://github.com/AlexandrosPanag/My_Arduino_Projects)
 - [My Assembly Projects](https://github.com/AlexandrosPanag/My_Assembly_Projects)
