@@ -65,32 +65,56 @@
 
 <div align="center">
 
-### 💻 Languages & Frameworks
+### 💻 Core Programming Languages
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby"/>
   <img src="https://img.shields.io/badge/Assembly-654FF0?style=flat-square&logo=assemblyscript&logoColor=white" alt="Assembly"/>
 </p>
 
-### 🔧 Hardware & Embedded
+### 🔧 Hardware & Embedded Systems
 <p>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi"/>
+  <img src="https://img.shields.io/badge/Raspberry_Pi_Pico-A22846?style=flat-square&logo=raspberry-pi&logoColor=white" alt="Raspberry Pi Pico"/>
   <img src="https://img.shields.io/badge/ESP32-000000?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"/>
+  <img src="https://img.shields.io/badge/Texas_Instruments-FF0000?style=flat-square&logo=ti&logoColor=white" alt="Texas Instruments"/>
   <img src="https://img.shields.io/badge/VHDL-0075A8?style=flat-square&logo=xilinx&logoColor=white" alt="VHDL"/>
-  <img src="https://img.shields.io/badge/SystemVerilog-EE0000?style=flat-square&logo=verilog&logoColor=white" alt="SystemVerilog"/>
+  <img src="https://img.shields.io/badge/SystemVerilog-EE0000?style=flat-square&logo=systemverilog&logoColor=white" alt="SystemVerilog"/>
 </p>
 
-### 🗄️ Databases & Tools
+### 🎮 Game Development & Frameworks
+<p>
+  <img src="https://img.shields.io/badge/RPG_Maker_MZ-FF6B6B?style=flat-square&logo=gamemaker&logoColor=white" alt="RPG Maker MZ"/>
+  <img src="https://img.shields.io/badge/Game_Development-4B32C3?style=flat-square&logo=unity&logoColor=white" alt="Game Development"/>
+  <img src="https://img.shields.io/badge/Mobile_Development-34A853?style=flat-square&logo=android&logoColor=white" alt="Mobile Development"/>
+</p>
+
+### 🗄️ Data & Analytics
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB"/>
-  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/>
+  <img src="https://img.shields.io/badge/Data_Science-FF6F00?style=flat-square&logo=jupyter&logoColor=white" alt="Data Science"/>
+</p>
+
+### 🌐 Web & Communication
+<p>
+  <img src="https://img.shields.io/badge/Discord_Bot-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"/>
+  <img src="https://img.shields.io/badge/Bluetooth-0082FC?style=flat-square&logo=bluetooth&logoColor=white" alt="Bluetooth"/>
+  <img src="https://img.shields.io/badge/IoT_Networks-00D4AA?style=flat-square&logo=internetofthings&logoColor=white" alt="IoT Networks"/>
+</p>
+
+### 🛠️ Development Tools & Documentation
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white" alt="Markdown"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Research-2E8B57?style=flat-square&logo=academia&logoColor=white" alt="Research"/>
 </p>
 
 </div>
@@ -150,28 +174,38 @@
 <summary><b>🔍 Expand to explore all repositories</b></summary>
 
 ### 💾 Programming Languages Collection
-- 🟨 **[JavaScript Solutions](https://github.com/AlexandrosPanag/My_JavaScript_Projects)** - Modern web development
-- 🐍 **[Python Arsenal](https://github.com/AlexandrosPanag/My_Python_Projects)** - Data science & automation
-- ⚡ **[C++ Mastery](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)** - Performance-critical applications
-- 🔷 **[C# Expertise](https://github.com/AlexandrosPanag/My_C_Sharp_Projects)** - Enterprise applications
-- ☕ **[Java Development](https://github.com/AlexandrosPanag/My_Java_Projects)** - Cross-platform solutions
-- 🔧 **[C Fundamentals](https://github.com/AlexandrosPanag/My_C_Projects)** - System programming
-- 🎯 **[Assembly Deep-Dive](https://github.com/AlexandrosPanag/My_Assembly_Projects)** - Low-level optimization
+- 🟨 **[JavaScript Solutions](https://github.com/AlexandrosPanag/My_JavaScript_Projects)** - Modern web development & interactive applications
+- 🐍 **[Python Arsenal](https://github.com/AlexandrosPanag/My_Python_Projects)** - Data science, automation & AI solutions
+- ⚡ **[C++ Mastery](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)** - Performance-critical & system applications
+- 🔷 **[C# Expertise](https://github.com/AlexandrosPanag/My_C_Sharp_Projects)** - Enterprise & desktop applications
+- ☕ **[Java Development](https://github.com/AlexandrosPanag/My_Java_Projects)** - Cross-platform & enterprise solutions
+- 🔧 **[C Fundamentals](https://github.com/AlexandrosPanag/My_C_Projects)** - System programming & embedded solutions
+- 💎 **[Ruby Elegance](https://github.com/AlexandrosPanag/My_Ruby_Projects)** - Web applications & scripting
+- 🎯 **[Assembly Deep-Dive](https://github.com/AlexandrosPanag/My_Assembly_Projects)** - Low-level optimization & system control
 
 ### 🤖 Hardware & Embedded Systems
-- 🔌 **[Arduino Innovation](https://github.com/AlexandrosPanag/My_Arduino_Projects)** - IoT solutions
-- 🍓 **[Raspberry Pi Pico](https://github.com/AlexandrosPanag/My_Raspberry_Pi_Pico_Projects)** - Microcontroller mastery  
-- 📡 **[Espressif Systems](https://github.com/AlexandrosPanag/My_Espressif_Projects)** - Wireless connectivity
-- 🏭 **[Texas Instruments](https://github.com/AlexandrosPanag/My_TI_Projects)** - Industrial applications
-- ⚡ **[VHDL Design](https://github.com/AlexandrosPanag/My_VHDL_Projects)** - FPGA development
-- 🔄 **[SystemVerilog](https://github.com/AlexandrosPanag/My_SystemVerilog_Projects)** - Digital design
+- 🔌 **[Arduino Innovation](https://github.com/AlexandrosPanag/My_Arduino_Projects)** - IoT solutions & sensor networks
+- 🍓 **[Raspberry Pi Pico](https://github.com/AlexandrosPanag/My_Raspberry_Pi_Pico_Projects)** - Microcontroller mastery & real-time systems
+- 📡 **[Espressif Systems](https://github.com/AlexandrosPanag/My_Espressif_Projects)** - WiFi/Bluetooth connectivity & ESP32 solutions
+- 🏭 **[Texas Instruments](https://github.com/AlexandrosPanag/My_TI_Projects)** - Industrial applications & DSP systems
+- ⚡ **[VHDL Design](https://github.com/AlexandrosPanag/My_VHDL_Projects)** - FPGA development & digital circuits
+- 🔄 **[SystemVerilog](https://github.com/AlexandrosPanag/My_SystemVerilog_Projects)** - Advanced digital design & verification
 
-### 🛠️ Development Tools & Frameworks
-- 💬 **[Discord Innovations](https://github.com/AlexandrosPanag/My_Discord_Projects)** - Community platforms
-- 📊 **[MATLAB Analytics](https://github.com/AlexandrosPanag/My_MATLAB_Projects)** - Scientific computing
-- 💎 **[Ruby Elegance](https://github.com/AlexandrosPanag/My_Ruby_Projects)** - Web applications
-- 🗃️ **[SQL Mastery](https://github.com/AlexandrosPanag/My_SQL_Projects)** - Database solutions
-- 📝 **[Markdown Craft](https://github.com/AlexandrosPanag/My_Markdown_Projects)** - Documentation excellence
+### 🎮 Game Development & Interactive Media
+- 🎯 **[RPG Maker MZ Plugins](https://github.com/AlexandrosPanag/My_RPGMAKERMZ_Plugins_Repository)** - Advanced JavaScript game enhancement plugins
+- 📱 **[HMU Companion App](https://github.com/AlexandrosPanag/HMU_Companion_Application)** - University mobile application
+
+### 🌐 Networking & Communication
+- 📡 **[Sensor Bluetooth Networks](https://github.com/AlexandrosPanag/Sensor_Networks_Bluetooth_Project)** - Advanced wireless sensor implementations
+- 💬 **[Discord Innovations](https://github.com/AlexandrosPanag/My_Discord_Projects)** - Community platforms & bot development
+
+### � Research & Analytics
+- 🎓 **[Academic Thesis](https://github.com/AlexandrosPanag/My_Thesis)** - Cutting-edge research & thesis work
+- � **[MATLAB Analytics](https://github.com/AlexandrosPanag/My_MATLAB_Projects)** - Scientific computing & data analysis
+- 🗃️ **[SQL Database Solutions](https://github.com/AlexandrosPanag/My_SQL_Projects)** - Database design & optimization
+
+### 🛠️ Development Tools & Documentation
+- 📝 **[Markdown Craft](https://github.com/AlexandrosPanag/My_Markdown_Projects)** - Documentation excellence & technical writing
 
 </details>
 
