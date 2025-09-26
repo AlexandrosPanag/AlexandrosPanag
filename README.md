@@ -182,6 +182,8 @@
 - 🔧 **[C Fundamentals](https://github.com/AlexandrosPanag/My_C_Projects)** - System programming & embedded solutions
 - 💎 **[Ruby Elegance](https://github.com/AlexandrosPanag/My_Ruby_Projects)** - Web applications & scripting
 - 🎯 **[Assembly Deep-Dive](https://github.com/AlexandrosPanag/My_Assembly_Projects)** - Low-level optimization & system control
+- 🔢 **[MATLAB Analytics](https://github.com/AlexandrosPanag/My_MATLAB_Projects)** - My Matlab Projects
+- 🗃️ **[SQL Database Solutions](https://github.com/AlexandrosPanag/My_SQL_Projects)** - Database design & optimization
 
 ### 🤖 Hardware & Embedded Systems
 - 🔌 **[Arduino Innovation](https://github.com/AlexandrosPanag/My_Arduino_Projects)** - IoT solutions & sensor networks
@@ -199,10 +201,9 @@
 - 📡 **[Sensor Bluetooth Networks](https://github.com/AlexandrosPanag/Sensor_Networks_Bluetooth_Project)** - Advanced wireless sensor implementations
 - 💬 **[Discord Innovations](https://github.com/AlexandrosPanag/My_Discord_Projects)** - Community platforms & bot development
 
-### � Research & Analytics
-- 🎓 **[Academic Thesis](https://github.com/AlexandrosPanag/My_Thesis)** - Cutting-edge research & thesis work
-- � **[MATLAB Analytics](https://github.com/AlexandrosPanag/My_MATLAB_Projects)** - Scientific computing & data analysis
-- 🗃️ **[SQL Database Solutions](https://github.com/AlexandrosPanag/My_SQL_Projects)** - Database design & optimization
+### 🎓 Research & Analytics
+- 🎓 **[Academic Thesis](https://github.com/AlexandrosPanag/My_Thesis)** - Bacherlor's Thesis
+
 
 ### 🛠️ Development Tools & Documentation
 - 📝 **[Markdown Craft](https://github.com/AlexandrosPanag/My_Markdown_Projects)** - Documentation excellence & technical writing
