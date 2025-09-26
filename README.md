@@ -80,7 +80,7 @@
 - 📡 **[Espressif Systems](https://github.com/AlexandrosPanag/My_Espressif_Projects)** - WiFi/Bluetooth connectivity & ESP32 solutions
 - 🏭 **[Texas Instruments](https://github.com/AlexandrosPanag/My_TI_Projects)** - Industrial applications & DSP systems
 - ⚡ **[VHDL Design](https://github.com/AlexandrosPanag/My_VHDL_Projects)** - FPGA development & digital circuits
-- 🔄 **[SystemVerilog](https://github.com/AlexandrosPanag/My_SystemVerilog_Projects)** - Advanced digital design & verification
+- 🔄 **[SystemVerilog Design](https://github.com/AlexandrosPanag/My_SystemVerilog_Projects)** - Advanced digital design & verification
 
 ### 🎮 Game Development & Interactive Media
 - 🎯 **[RPG Maker MZ Plugins](https://github.com/AlexandrosPanag/My_RPGMAKERMZ_Plugins_Repository)** - Advanced JavaScript game enhancement plugins
