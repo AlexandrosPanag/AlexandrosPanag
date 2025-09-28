@@ -54,6 +54,15 @@
   <br/>
   <em>Advanced JavaScript solutions</em>
 </td>
+  <td align="center">
+  <img src="https://img.shields.io/badge/NEW-FF6B6B?style=for-the-badge&logo=sparkpost&logoColor=white" alt="New"/>
+  <br/>
+  <strong>October 2025</strong>
+  <br/>
+  🐍 Python Repository updates
+  <br/>
+  <em>Advanced Python solutions</em>
+</td>
 </tr>
 </table>
 
