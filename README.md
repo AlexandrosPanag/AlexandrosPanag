@@ -95,9 +95,6 @@
 - 🎯 **[RPG Maker MZ Plugins](https://github.com/AlexandrosPanag/My_RPGMAKERMZ_Plugins_Repository)** - Advanced JavaScript game enhancement plugins
 - 📱 **[HMU Companion App](https://github.com/AlexandrosPanag/HMU_Companion_Application)** - University mobile application
 
-### 🌐 Networking & Communication
-- 📡 **[Sensor Bluetooth Networks](https://github.com/AlexandrosPanag/Sensor_Networks_Bluetooth_Project)** - Advanced wireless sensor implementations
-- 💬 **[Discord Innovations](https://github.com/AlexandrosPanag/My_Discord_Projects)** - Community platforms & bot development
 
 ### 🎓 Research & Analytics
 - 🎓 **[Academic Thesis](https://github.com/AlexandrosPanag/My_Thesis)** - Bacherlor's Thesis
