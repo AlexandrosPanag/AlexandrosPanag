@@ -70,7 +70,6 @@
 
 
 
----
 
 ## 🛠️ Tech Arsenal & Expertise
 
@@ -167,6 +166,9 @@
 
 ## 📚 Complete Project Ecosystem
 
+
+---
+
 <details>
 <summary><b>🔍 Expand to explore all repositories</b></summary>
 
@@ -200,6 +202,10 @@
 - 📝 **[Markdown Craft](https://github.com/AlexandrosPanag/My_Markdown_Projects)** - Documentation excellence & technical writing
 
 </details>
+
+
+---
+
 
 
 ---
