@@ -68,39 +68,7 @@
 
 ---
 
-<details>
-<summary><b>🔍 Expand to explore all repositories</b></summary>
 
-### 💾 Programming Languages Collection
-- 🐍 **[Python Arsenal](https://github.com/AlexandrosPanag/My_Python_Projects)** - Data science, automation & AI solutions
-- ⚡ **[C++ Mastery](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)** - Performance-critical & system applications
-- 🔷 **[C# Expertise](https://github.com/AlexandrosPanag/My_C_Sharp_Projects)** - Enterprise & desktop applications
-- ☕ **[Java Development](https://github.com/AlexandrosPanag/My_Java_Projects)** - Cross-platform & enterprise solutions
-- 💎 **[Ruby Elegance](https://github.com/AlexandrosPanag/My_Ruby_Projects)** - Web applications & scripting
-- 🎯 **[Assembly Deep-Dive](https://github.com/AlexandrosPanag/My_Assembly_Projects)** - Low-level optimization & system control
-- 🔢 **[MATLAB Analytics](https://github.com/AlexandrosPanag/My_MATLAB_Projects)** - My Matlab Projects
-- 🗃️ **[SQL Database Solutions](https://github.com/AlexandrosPanag/My_SQL_Projects)** - Database design & optimization
-
-### 🤖 Hardware & Embedded Systems
-- 🔌 **[Arduino Innovation](https://github.com/AlexandrosPanag/My_Arduino_Projects)** - IoT solutions & sensor networks
-- 📡 **[Espressif Systems](https://github.com/AlexandrosPanag/My_Espressif_Projects)** - WiFi/Bluetooth connectivity & ESP32 solutions
-- 🏭 **[Texas Instruments](https://github.com/AlexandrosPanag/My_TI_Projects)** - Industrial applications & DSP systems
-- ⚡ **[VHDL Design](https://github.com/AlexandrosPanag/My_VHDL_Projects)** - FPGA development & digital circuits
-- 🔄 **[SystemVerilog Design](https://github.com/AlexandrosPanag/My_SystemVerilog_Projects)** - Advanced digital design & verification
-
-### 🎮 Game Development & Interactive Media
-- 🎯 **[RPG Maker MZ Plugins](https://github.com/AlexandrosPanag/My_RPGMAKERMZ_Plugins_Repository)** - Advanced JavaScript game enhancement plugins
-- 📱 **[HMU Companion App](https://github.com/AlexandrosPanag/HMU_Companion_Application)** - University mobile application
-
-
-### 🎓 Research & Analytics
-- 🎓 **[Academic Thesis](https://github.com/AlexandrosPanag/My_Thesis)** - Bacherlor's Thesis
-
-
-### 🛠️ Development Tools & Documentation
-- 📝 **[Markdown Craft](https://github.com/AlexandrosPanag/My_Markdown_Projects)** - Documentation excellence & technical writing
-
-</details>
 
 ---
 
@@ -199,7 +167,39 @@
 
 ## 📚 Complete Project Ecosystem
 
+<details>
+<summary><b>🔍 Expand to explore all repositories</b></summary>
 
+### 💾 Programming Languages Collection
+- 🐍 **[Python Arsenal](https://github.com/AlexandrosPanag/My_Python_Projects)** - Data science, automation & AI solutions
+- ⚡ **[C++ Mastery](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)** - Performance-critical & system applications
+- 🔷 **[C# Expertise](https://github.com/AlexandrosPanag/My_C_Sharp_Projects)** - Enterprise & desktop applications
+- ☕ **[Java Development](https://github.com/AlexandrosPanag/My_Java_Projects)** - Cross-platform & enterprise solutions
+- 💎 **[Ruby Elegance](https://github.com/AlexandrosPanag/My_Ruby_Projects)** - Web applications & scripting
+- 🎯 **[Assembly Deep-Dive](https://github.com/AlexandrosPanag/My_Assembly_Projects)** - Low-level optimization & system control
+- 🔢 **[MATLAB Analytics](https://github.com/AlexandrosPanag/My_MATLAB_Projects)** - My Matlab Projects
+- 🗃️ **[SQL Database Solutions](https://github.com/AlexandrosPanag/My_SQL_Projects)** - Database design & optimization
+
+### 🤖 Hardware & Embedded Systems
+- 🔌 **[Arduino Innovation](https://github.com/AlexandrosPanag/My_Arduino_Projects)** - IoT solutions & sensor networks
+- 📡 **[Espressif Systems](https://github.com/AlexandrosPanag/My_Espressif_Projects)** - WiFi/Bluetooth connectivity & ESP32 solutions
+- 🏭 **[Texas Instruments](https://github.com/AlexandrosPanag/My_TI_Projects)** - Industrial applications & DSP systems
+- ⚡ **[VHDL Design](https://github.com/AlexandrosPanag/My_VHDL_Projects)** - FPGA development & digital circuits
+- 🔄 **[SystemVerilog Design](https://github.com/AlexandrosPanag/My_SystemVerilog_Projects)** - Advanced digital design & verification
+
+### 🎮 Game Development & Interactive Media
+- 🎯 **[RPG Maker MZ Plugins](https://github.com/AlexandrosPanag/My_RPGMAKERMZ_Plugins_Repository)** - Advanced JavaScript game enhancement plugins
+- 📱 **[HMU Companion App](https://github.com/AlexandrosPanag/HMU_Companion_Application)** - University mobile application
+
+
+### 🎓 Research & Analytics
+- 🎓 **[Academic Thesis](https://github.com/AlexandrosPanag/My_Thesis)** - Bacherlor's Thesis
+
+
+### 🛠️ Development Tools & Documentation
+- 📝 **[Markdown Craft](https://github.com/AlexandrosPanag/My_Markdown_Projects)** - Documentation excellence & technical writing
+
+</details>
 ---
 
 <div align="center">
