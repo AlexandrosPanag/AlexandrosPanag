@@ -133,32 +133,7 @@
 </td>
 <td width="50%">
 
-### 📱 Mobile Applications  
-[![HMU Companion](https://img.shields.io/badge/📲_HMU-Companion-4CAF50?style=for-the-badge)](https://github.com/AlexandrosPanag/HMU_Companion_Application)
 
-*University companion mobile application*
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔬 Research & Academia
-[![Thesis Project](https://img.shields.io/badge/🎓_Academic-Research-2196F3?style=for-the-badge)](https://github.com/AlexandrosPanag/My_Thesis)
-
-*Cutting-edge research and thesis work*
-
-</td>
-<td width="50%">
-
-### 🌐 Networking Solutions
-[![Sensor Networks](https://img.shields.io/badge/📡_Bluetooth-Networks-9C27B0?style=for-the-badge)](https://github.com/AlexandrosPanag/Sensor_Networks_Bluetooth_Project)
-
-*Advanced sensor network implementations*
-
-</td>
-</tr>
-</table>
 
 </div>
 
