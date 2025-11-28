@@ -115,27 +115,6 @@
 
 </div>
 
----
-
-## 🌟 Featured Projects Portfolio
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎮 Game Development
-[![RPG Maker MZ Plugins](https://img.shields.io/badge/🎯_RPG_Maker_MZ-Plugins-FF6B6B?style=for-the-badge)](https://github.com/AlexandrosPanag/My_RPGMAKERMZ_Plugins_Repository)
-
-*Advanced JavaScript plugin solutions for game enhancement*
-
-</td>
-<td width="50%">
-
-
-
-</div>
 
 
 ## 📚 Complete Project Ecosystem
