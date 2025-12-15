@@ -2,7 +2,7 @@
 
 # 🚀 Welcome to Alexandros Panagiotokopoulos' GitHub Universe
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines= Polygot Engineer; Full-Stack Engineer;Game Developer; IoT Engineer;Hardware-Software-Engineer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Polyglot+Engineer;Full-Stack+Engineer;Game+Developer;IoT+Engineer;Hardware-Software+Engineer" alt="Typing SVG" />
 
 ---
 
