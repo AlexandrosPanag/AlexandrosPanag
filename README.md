@@ -63,6 +63,16 @@
   <br/>
   <em>Advanced Python solutions</em>
 </td>
+  </td>
+  <td align="center">
+  <img src="https://img.shields.io/badge/NEW-FF6B6B?style=for-the-badge&logo=sparkpost&logoColor=white" alt="New"/>
+  <br/>
+  <strong>July 2026</strong>
+  <br/>
+  📝 First Paper Publication
+  <br/>
+  <em>A Comparative Algorithmic Analysis of Exact Search Methods for Urban Route Optimization: Re-evaluating the 17-City Traveling Salesman Problem</em>
+</td>
 </tr>
 </table>
 
