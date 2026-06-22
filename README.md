@@ -71,7 +71,7 @@
   <br/>
   📝 First Paper Publication
   <br/>
-  <em>A Comparative Algorithmic Analysis of Exact Search Methods for Urban Route Optimization: Re-evaluating the 17-City Traveling Salesman Problem</em>
+  <em>Source code (C# and Ruby) and dataset for the comparative algorithmic analysis of the 17-city Bolgatanga TSP.</em>
 </td>
 </tr>
 </table>
