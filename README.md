@@ -71,7 +71,7 @@
   <br/>
   📝 First Paper Publication
   <br/>
-  <em>Source code (C# and Ruby) and dataset for the comparative algorithmic analysis of the 17-city Bolgatanga TSP.</em>
+  <em> Analysis of the 17-city Bolgatanga TSP.</em>
 </td>
 </tr>
 </table>
