@@ -1,5 +1,5 @@
 ```
-![snake](https://github.com/alexandrospanag/alexandrospanag/blob/output/github-contribution-grid-snake-dark.svg)
+![snake](https://raw.githubusercontent.com/alexandrospanag/alexandrospanag/output/github-contribution-grid-snake-dark.svg)
 ```
 
 > Software Engineer · AI & Systems Developer
