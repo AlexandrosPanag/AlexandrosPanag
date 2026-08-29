@@ -30,7 +30,7 @@
 > Software Engineer · AI & Systems Developer
 
 I build things. Mostly software. Sometimes hardware. Occasionally both at once.  
-Currently deep in RAG systems and LLM integration. Also an official plugin dev for RPG Maker MZ.  
+Currently deep in RAG systems and LLM integration. 
 Published researcher. Open source contributor.
 
 ---
