@@ -47,23 +47,4 @@ Embedded    →   Arduino  ESP32  Raspberry Pi Pico  Texas Instruments
 
 ---
 
-## Projects
-
-#### Software
-- **[Python Projects](https://github.com/AlexandrosPanag/My_Python_Projects)** — data science, automation, AI pipelines
-- **[C++ Projects](https://github.com/AlexandrosPanag/My_CPlusPlus_Projects)** — systems & performance-critical code
-- **[C# Projects](https://github.com/AlexandrosPanag/My_C_Sharp_Projects)** — desktop & enterprise applications
-- **[Java Projects](https://github.com/AlexandrosPanag/My_Java_Projects)** — cross-platform solutions
-- **[Ruby Projects](https://github.com/AlexandrosPanag/My_Ruby_Projects)** — back-end development
-- **[SQL Projects](https://github.com/AlexandrosPanag/My_SQL_Projects)** — database design & optimization
-- **[MATLAB Projects](https://github.com/AlexandrosPanag/My_MATLAB_Projects)** — numerical computing & analytics
-
-#### Hardware & Embedded
-- **[Arduino Projects](https://github.com/AlexandrosPanag/My_Arduino_Projects)** — IoT & sensor networks
-- **[Espressif / ESP32](https://github.com/AlexandrosPanag/My_Espressif_Projects)** — WiFi/Bluetooth connectivity
-- **[Texas Instruments](https://github.com/AlexandrosPanag/My_TI_Projects)** — DSP & industrial systems
-- **[VHDL Projects](https://github.com/AlexandrosPanag/My_VHDL_Projects)** — FPGA & digital circuit design
-- **[Assembly Projects](https://github.com/AlexandrosPanag/My_Assembly_Projects)** — low-level optimization
----
-
 *[alexandrospanag.github.io](https://alexandrospanag.github.io)*
