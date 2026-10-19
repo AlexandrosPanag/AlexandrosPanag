@@ -24,7 +24,7 @@
 ![snake](https://github.com/AlexandrosPanag/AlexandrosPanag/blob/output/github-contribution-grid-snake-dark.svg?raw=true)
 
 
-> Software Engineer · AI & Systems Developer
+> IT  · Software Engineer · AI & Systems Developer  · Game Developer
 
 I build things. Mostly software. Sometimes hardware. Occasionally both at once.  
 Currently deep in RAG systems and LLM integration. 
